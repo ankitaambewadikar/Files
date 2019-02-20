@@ -1,0 +1,315 @@
+{
+    "productId": 161,
+    "productType": "Men Section",
+    "productName": "Dennis Lingo Men's Solid Chinese Collar Blue Casual Shirt",
+    "category": "Clothing",
+    "rating": {
+        "1": 5,
+        "2": 3,
+        "3": 8,
+        "4": 33,
+        "5": 51
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/161.jpg"
+    ],
+    "price": 599,
+    "description": "Best for casual & smart casual wear",
+    "specification": {
+        "Size": " S-38, M-40, L-42, XL-44, XXL-46",
+        "Colour": "Navy Blue and White,Black and Orange,Navy Blue and White,Blue",
+        "Cloth type": "100% Premium Cotton",
+        "Fit Type": "Slim Fit",
+        "Lifestyle": "Casual",
+        "Warranty Type": "Manufacturer",
+        "Product warranty against manufacturing defects": "30 days",
+        "Instructions": "Pre-Washed for extremely soft finish and Rich look"
+    }
+}
+{
+    "productId": 162,
+   "productType": "Men Section",
+    "productName": "Ben Martin Men's Regular Fit Denim Jeans",
+    "category": "Clothing",
+    "rating": {
+        "1": 5,
+        "2": 3,
+        "3": 8,
+        "4": 23,
+        "5": 61
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/162.jpg"
+    ],
+    "price": 699,
+    "description": "Best for casual & smart casual wear ,What you see is what you get: We strive to make our colors as accurate as possible. due to monitor settings, monitor pixel definitions, we cannot guarantee that the colour you see on your screen as an exact colour of the product",
+    "specification": {
+        "Size": " S-38, M-40, L-42, XL-44, XXL-46",
+        "Style": "Casual wear",
+        "Material ": "Denim jeans. Wash care ",
+        "Fit Type": "Slim Fit",
+        "Lifestyle": "Casual",
+        "Product warranty against manufacturing defects": "30 days",
+        "Instructions": "Do not bleach, dry in shade"
+    }
+}
+{
+    "productId": 163,
+   "productType": "Men Section",
+    "productName": "AWG Men's Light Weight Rich Cotton Casual Sweatshirt with Zip - Grey",
+    "category": "Clothing",
+    "rating": {
+        "1": 5,
+        "2": 3,
+        "3": 8,
+        "4": 33,
+        "5": 51
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/163.jpg"
+    ],
+    "price": 599,
+    "description": "Casual and Sports Wear. Ideal for Casual outings, Gym Wear, Sports and Adventure Wear.",
+    "specification": {
+        "Size": " S-38, M-40, L-42, XL-44, XXL-46",
+        "Colour": "Navy Blue and White,Black and Orange,Navy Blue and White,Blue",
+        "Material": "Premium Light Weight Rich Cotton",
+        "Fit Type": "Regular Fit",
+        "Clousure Type": "Zip Durable Stitching and fine finish.Contrast lining inside Hood and Contrast Draw cord for a classy look. This Product has a 2 Front Kangaroo Pockets.",
+        "Wash Care instructions": "Do not bleach. Dry in shade. Wash with similar colors. Hand wash."
+    }
+}
+{
+    "productId": 164,
+    "productType": "KidsSection",
+    "productName": "JBN Creation Boys(8-12 years) Cotton Silk Sherwani Suit With Patiala Style Cowl Dhoti Pant ",
+    "category": "Clothing",
+    "rating": {
+        "1": 8,
+        "2": 3,
+        "3": 8,
+        "4": 10,
+        "5": 71
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/164.jpg"
+    ],
+    "price": 1599,
+    "description": "a Sherwani Style Kurta Set for: Party, Weddings, Regular Wear, Celebrations, Occasions, Festivals, Lohri, Makar Sakranti, Baisakhi, Holi, Raksha Bandhan, Dussehra, Diwali, Navratri, Pooja, Christmas, Onam, Ganesha and Gifting.",
+    "specification": {
+        "Fabric:": "  Cotton Blend",
+        "Colour": "Navy Blue and White,Black and Orange,Navy Blue and White,Blue",
+        "Measurements ": "Measurements shown in images or the size chart section are garment measurements, so take adequate 5-6 inches loosening over the little champion's body measurement to get the right fit. Our kurtas are Medium length and Regular Fit. Our Kurta fitting is usually slightly relaxed compared to a Regular Shirt's fitting. ",
+        "Wash Care instructions": "Dry Clean preferably or cold light wash"
+    }
+}
+{
+    "productId": 165,
+    "productType": "KidsSection",
+    "productName": "Party wear princess-frock dress(8-12 years)",
+    "category": "Clothing",
+    "rating": {
+        "1": 8,
+        "2": 3,
+        "3": 8,
+        "4": 10,
+        "5": 71
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/165.jpg"
+    ],
+    "price": 1999,
+    "description": "Beautifully Designed Floor Length Gown Dress With Regular Fit With Flair. Patch Of Beutifull Golden Flowers And Embedded Pearls Necklace.",
+    "specification": {
+        "Fabric:": "Comes with 4 Layers. The Topmost Layer Is A Tafetta Silk,Second Layer Is Of Silky Net And Third Layer Is Of Deluxe Net Which Provides Strength Also Helps In Getting Flair. The Inner Most Layer Is Of Skin Friendly Smooth Cotton Lining Which Helps In Making The Dress Comfortable To Wear For Long Time",
+        "Colour": "Pink,Red,Yellow,Blue",
+        "Wash Care instructions": "Dry Clean preferably or cold light wash",
+        "Ocassion": "My Lil Princess Girls Dresses Are Best Suited For Special Occasions Like Birthdays, Weddings, Evening Parties And Traditional Indian Festivals Like Diwali, Navratri, Dussehra, Pongal, Onam, Lohri, Eid Christmas And So On. Our Dresses Are Comfortable And Suitable For All Seasons."
+    }
+}
+{
+    "productId": 166,
+     "productType": "WomenSection",
+    "productName": "Indira Designer Georgette Saree ",
+    "category": "Clothing",
+    "rating": {
+        "1": 31,
+        "2": 13,
+        "3": 8,
+        "4": 18,
+        "5": 41
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/166.jpg"
+    ],
+    "price": 999,
+    "description": "Designer Saree with golden plated border",
+    "specification": {
+        "Fabric:": "Georgette",
+        "Colour": "Navy blue",
+        "Wash Care instructions": "Dry Clean preferably or cold light wash",
+        "Length": " 6 yards"
+    }
+}
+{
+    "productId": 167,
+    "productType": "WomenSection",
+    "productName": "Kally Women's Printed Hooded Sweastshirts ",
+    "category": "Clothing",
+    "rating": {
+        "1": 31,
+        "2": 13,
+        "3": 8,
+        "4": 18,
+        "5": 41
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/167.jpg"
+    ],
+    "price": 899,
+    "description": "Zipper Hoodies Sweatshirt for Women",
+    "specification": {
+        "Fit type": " Regular Fit",
+        "Fabric:": "100% Cotton Premium Quality",
+        "Colour": "Navy blue,Maroon",
+        "Sleeve": "Long Sleeve",
+        "Neck Type": "Hoodie Neck",
+        "Wash Care instructions": "Bio washed to offer comfort and smoothness"
+    }
+}
+{
+    "productId": 168,
+    "productType": "WomenSection",
+    "productName": "AD Fashions Indo-Western Satin Silk Kurti For Women",
+    "category": "Clothing",
+    "rating": {
+        "1": 2,
+        "2": 0,
+        "3": 8,
+        "4": 19,
+        "5": 71
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/168.jpg"
+    ],
+    "price": 1209,
+    "description": "Latest Indo-Western Kurti for office wear and simple party wear",
+    "specification": {
+        "Fit type": " Regular Fit",
+        "Fabric:": " SATIN JORJET AND PRINTED JORJET FEBRIC",
+        "Colour": "Navy blue,Maroon,Black",
+        "Size": " S-38, M-40, L-42, XL-44, XXL-46",
+        "Sleeve": "Half sleeves",
+        "Wash Care instructions": "DRY CLEAN ONLY"
+    }
+}
+{
+    "productId": 169,
+    "productType": "WomenSection",
+    "productName": "hopenl Women's Formal Shirt Top Blouse",
+    "category": "Clothing",
+    "rating": {
+        "1": 2,
+        "2": 0,
+        "3": 8,
+        "4": 29,
+        "5": 61
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/169.jpg"
+    ],
+    "price": 649,
+    "description": "hopenl Women's Cotton Striped Formal Shirt Top Blouse (Sky Blue)",
+    "specification": {
+        "Pattern": "Striped White and Sky Blue",
+        "Fabric:": " SATIN JORJET AND PRINTED JORJET FEBRIC",
+        "Fit type ": "Silver Button Cuff detailing || Mandarin Y- neck || Regular Fit || Unlined",
+        "Size": " S-38, M-40, L-42, XL-44, XXL-46",
+        "Sleeve": "Full sleeves",
+        "Wash Care": " Machine Wash with Similar Colors, Use Detergent for Colors, Do not Bleach"
+    }
+}
+{
+    "productId": 170,
+    "productType": "KidsSection",
+    "productName": "Aarika Girl's Self Design Party Wear Top and Skirt Set",
+    "category": "Clothing",
+    "rating": {
+        "1": 2,
+        "2": 0,
+        "3": 8,
+        "4": 29,
+        "5": 61
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/170.jpg"
+    ],
+    "price": 999,
+    "description": "Stylish, fashionable and for birthday party festive",
+    "specification": {
+        "Party wear": "Girl's top and skirt",
+        "Fabric:": " Georgette",
+        "Sleeve": "Half sleeves",
+        "Wash Care": " Machine Wash with Similar Colors, Use Detergent for Colors, Do not Bleach"
+    }
+}

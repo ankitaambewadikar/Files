@@ -1,0 +1,485 @@
+{
+    "productId": 101,
+    "productType": "WomenSection",
+    "productName": "capreseehandbag",
+    "category": "bags and Luggage",
+    "rating": {
+        "1": 10
+    },
+    "review": {
+        "1": "Excellent"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/mobile.jpeg"
+    ],
+    "price": 1500,
+    "description": "good product",
+    "specification": {
+        "SpectOne": "two compartments",
+        "SpectTwo": "Adjustable strap"
+    }
+}
+{
+    "productId": 102,
+    "productType": "camera",
+    "productName": "GoPro HERO7 Black Camera",
+    "category": "electronics",
+    "rating": {
+        "1": 5,
+        "2": 3,
+        "3": 20,
+        "4": 35,
+        "5": 50
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/102.jpg"
+    ],
+    "price": 45600,
+    "description": "Waterproof Digital Action Camera with Touch Screen 4K HD Video 12MP Photos Live Streaming Stabilization",
+    "specification": {
+        "HyperSmooth Video Stabilization ": "Get gimbal-like stabilization—without the gimbal. HERO7 Black predicts your movements and corrects for camera shake to deliver insanely smooth footage",
+        "Time Warp Video ": " Capture super stabilized time lapse videos while you move about a scene. Increase the speed up to 30x to turn longer activities into shareable moments",
+        "Super Photo": " Get the best photos automatically. With Super Photo, HERO7 Black intelligently applies HDR, local tone mapping or noise reduction to optimize your shots",
+        "Rugged + Waterproof ": "Share experiences you can’t capture with your phone. HERO7 Black is rugged, waterproof without a housing to 33ft (10m) and up for any adventure",
+        "Voice Control": " Stay in the moment. Control your HERO7 Black hands-free with voice commands like “GoPro, take a photo” and “GoPro, start recording"
+    }
+}
+
+{
+    "productId": 103,
+    "productType": "MobileAcc",
+    "productName": "AmazonBasics HL-007306 High speed HDMI cable",
+    "category": "electronics",
+    "rating": {
+        "1": 5,
+        "2": 3,
+        "3": 20,
+        "4": 35,
+        "5": 50
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/103.jpg"
+    ],
+    "price": 5600,
+    "description": "Speed HDMI Cable, 6 Feet, 1-Pack",
+    "specification": {
+        "HDMI A Male to A Male Cable ": " Supports Ethernet, 3D, 4K video and Audio Return Channel (ARC)",
+        "Connects Blu ": " ray players, Fire TV, Apple TV, PS4, PS3, XBox one, Xbox 360, computers and other HDMI-enabled devices to TVs, displays, A/V receivers and more",
+        "Cable": " Cable allows you to share an Internet connection among multiple devices without the need for a separate Ethernet cable",
+        "HDMI std ": "Meets the latest HDMI standards (4K Video at 60 Hz, 2160p, 48 bit/px color depth) that supports bandwidth up to 18Gbps and backwards compatible with earlier version",
+        "Cable Length": " 6 feet (1.8 meters); Backed by AmazonBasics Lifetime warranty."
+    }
+}
+
+{
+    "productId": 104,
+   "productType": "MobileAcc",
+    "productName": "OontZ Angle 3 Enhanced Stereo Edition IPX5 Splashproof Portable Bluetooth Speaker",
+    "category": "electronics",
+    "rating": {
+        "1": 5,
+        "2": 3,
+        "3": 20,
+        "4": 35,
+        "5": 50
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/104.jpg"
+    ],
+    "price": 5600,
+    "description": " Volume Booster AMP 10 Watts Power, Custom Bass Radiator, 100' Wireless Range Bluetooth 4.2",
+    "specification": {
+        "HIGHER QUALITY CRYSTAL CLEAR SOUND ": " The new OontZ Angle 3 Enhanced Stereo Edition delivers greater clarity stereo sound with clear mids and highs from dual precision acoustic stereo drivers; the bass output is enhanced by our proprietary passive bass radiator",
+        "LOUDER VOLUME ": "Surprisingly loud, the Volume Booster 10+ watt power AMP pumps out more volume and plays your music with no distortion even at maximum volume; perfect speaker for your iPhone, iPad, Echo Dot, Echo, Samsung Galaxy, Samsung Note, Smartphone Mac, Windows laptop, computer, Chromebook; perfect for home, dorm room, kitchen, bathroom, golf cart; stream your music on iTunes, Amazon Music, Spotify, Pandora from your device wirelessly to the OontZ Angle 3 Enhanced Stereo Edition",
+        "INCREDIBLE 100 FOOT BLUETOOTH RANGE": "Play up to 100 unobstructed feet away from your device; our advanced antenna design with Bluetooth 4.2 technology provides greater range and faster connection to your device; you can place your speaker up to 100 unobstructed feet away from your Echo Dot or Echo, or other Bluetooth device",
+        "LONGER BATTERY PLAYTIME PLAY UP TO 14 HOURS  ": "Play from morning till night; bigger 2500mAh rechargeable battery can play up to 14 hours at 2/3 volume; play while charging so you can keep the music going around the clock",
+        "WATER RESISTANT": "splashproof, rainproof shower speaker; IPX5 can resist gentle water spray and splash but cannot be partially or fully submerged; AUX IN PORT connect from TVs and non-Bluetooth devices with a 3.5mm audio cable"
+    }
+}
+{
+    "productId": 105,
+    "productType": "PowerBank",
+    "productName": "Yoobao Portable Charger Power Bank ",
+    "category": "electronics",
+    "rating": {
+        "1": 5,
+        "2": 3,
+        "3": 20,
+        "4": 35,
+        "5": 50
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+    	"C:/Users/aambewad/Desktop/Images/105.jpg"
+    	],
+    "price": 8600,
+    "description": "Apple & Micro Input 8000mAh Slim Powerbank External Cellphone Battery Backup Pack Compatible iPhone X 8 7 6 Plus Android Smartphone Samsung Galaxy etc- Gray",
+    "specification": {
+        "Apple & Micro 2 Input ": "Both iOS and Android users only need one cable to charge and discharge. It is special convenient for iPhone, say goodbye to carrying 2 cables right now.",
+        "High Capacity with High Speed ": "8000mAh can fully charge iPhone X for 2 times[NOT include Apple cable with this power bank], Galaxy S7 for 1.8 times. It can fit universal device and deliver fast and safe charge speed up to 2A. Never worry your phone will be dead.",
+        "Slim Portable Charger ": "Small size:4.72*2.75*0.63 in, weighs 7.7 oz, iPhone 8 size:5.4*2.75*0.3 in, weighs 5.2 oz. It is very convenient to take around for daily use or international travel",
+        "Certified Safe  ": " Equipped with metal fire-retardant shell, intelligent IC and premium Li-Polymer battery, multiple safety system, which provide you and your devices absolute security warranty. Over pass FCC,ROHS,CE authentication."
+    }
+}
+
+{
+    "productId": 106,
+   "productType": "Laptop",
+    "productName": "Acer Aspire E 15 Laptop ",
+    "category": "electronics",
+    "rating": {
+        "1": 5,
+        "2": 3,
+        "3": 20,
+        "4": 35,
+        "5": 50
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+    	"C:/Users/aambewad/Desktop/Images/106.jpg"
+    	],
+    "price": 40800,
+    "description": "E 15, 15.6 Full HD, 8th Gen Intel Core i3-8130U, 6GB RAM Memory, 1TB HDD, 8X DVD, E5-576-392H",
+    "specification": {
+        "Intel core Gen ": "8th Generation Intel Core i3-8130U Processor (Up to 3.4GHz).",
+        "Screen ": "15.6 Full HD (1920 x 1080) widescreen LED-lit Display",
+        "Memory ": "6GB Dual Channel Memory, 1TB HDD & 8X DVD",
+        "Battery-life": " Up to 13.5-hours of battery life",
+        "Windows": "Windows 10 Home"
+    }
+}
+
+{
+    "productId": 107,
+    "productType": "Mobile",
+    "productName": "Vivo V9 ",
+    "category": "electronics",
+    "rating": {
+        "1": 5,
+        "2": 3,
+        "3": 20,
+        "4": 35,
+        "5": 50
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+    	"C:/Users/aambewad/Desktop/Images/107.jpg"
+    	],
+    "price": 24800,
+    "description": "4GB / 64GB 6.3-inches Dual SIM Factory Unlocked - Taiwan Stock No Warranty (Pearl Black)",
+    "specification": {
+        "Main Camera ": "Dual: 16 MP + 5 MP, f/2.0, phase detection autofocus, LED flash; Front Camera: 24 MP, f/2.0.",
+        "Screen ": "6.3 inches, IPS LCD capacitive touchscreen, 16M colors.",
+        "Memory ": "Qualcomm Snapdragon 626 Octa-core CPU ; 64GB ROM, 4GB RAM ; Supports microSD, up to 256 GB (dedicated slot) ; 3260 mAh battery.",
+        "Package Content": "Vivo V9 , Earphone , Documentation , USB Cable , USB Power Adapter , SIM Ejector , Protective Case , Protective Film (applied). PLEASE NOTE: this is a Taiwan version of the phone that comes with no warranty in the US.",
+        "SIM ": "Dual Nano-SIM (4G + 3G) ; 4G LTE does not work in the US ; ONLY 3G works with AT&T and AT&T based GSM carriers ; DOES NOT work with Sprint, Verizon, U.S. Cellular and all other carriers"
+    }
+}
+{
+    "productId": 108,
+    "productType": "MobileAcc",
+    "productName": "SanDisk 128GB Extreme microSD",
+    "category": "electronics",
+    "rating": {
+        "1": 5,
+        "2": 3,
+        "3": 20,
+        "4": 35,
+        "5": 50
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image":[
+    	"C:/Users/aambewad/Desktop/Images/108.jpg"
+    	],
+    "price": 24800,
+    "description": "UHS-I Card with Adapter - U3 A2 - SDSQXA1-128G-GN6MA",
+    "specification": {
+        "Speed ": "Up to 160MB/s* read speeds to save time transferring high-res images and 4K UHD videos(2). Requires compatible devices capable of reaching such speeds. Compatible with microSDHC, microSDXC, microSDHC UHS-I, and microSDXC UHS-I supporting host devices",
+        "Compatible dev ": "host devices Up to 90MB/s write speeds for fast shooting.* Requires compatible devices capable of reaching such speeds.",
+        "Resisvity ": "Rated A2 for faster loading and in-app performance(8)Built for and tested in harsh conditions: temperature-proof, water-proof, shock-proof and x-ray proof(4)Get the SanDisk Memory Zone app for easy file management (available on Google Play)(3)"
+    }
+}
+
+{
+    "productId": 109,
+    "productType": "MobileAcc",
+    "productName": "Beam Electronics Universal Smartphone Car Air Vent Mount Holder Cradle",
+    "category": "electronics",
+    "rating": {
+        "1": 5,
+        "2": 3,
+        "3": 20,
+        "4": 35,
+        "5": 50
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+    	"C:/Users/aambewad/Desktop/Images/109.jpg"
+    	],
+    "price": 24800,
+    "description": " Car Air Vent Mount Holder Cradle for iPhone XS XS Max X 8 8 Plus 7 7 Plus SE 6s 6 Plus 6 5s 5 4s 4 Samsung Galaxy S6 S5 S4 LG Nexus Sony Nokia ",
+    "specification": {
+        "Quick Release Button: ": "Press button on back of unit to slide open and then take out mobile phone. Press the arms on both side to clamp mobile phone again, simple of operation, save time and power.",
+        "360 Degree Rotation ": "The fully 360-degree rotation provide you with the best viewing angle.The holder ensures safe driving whether you are talking, navigating, listening to music or charging.",
+        "Broad Compatibility": "Passed a wide range of tests, fit for most cellphones, iPhone 7 7 Plus iPhone 6s Plus, 6s, 5s, 5c ,Samsung Galaxy S6, HTC,LG, Nexus, Nokia, GPS Device. Sturdy, cradle-less and attractive device holding system.suitable for width size from 1.9 inch to 3.7inch smart phone or electronic devices.",
+        "Single-handed Operation:": "Simple installation and removal of smart phones. Simplistic Installation, Single-handed Operation, No Tools Needed."
+    }
+}
+{
+    "productId": 110,
+    "productType": "PaperShredder",
+    "productName": "AmazonBasics 8-Sheet Cross-Cut Paper and Credit Card Shredder",
+    "category": "electronics",
+    "rating": {
+        "1": 5,
+        "2": 3,
+        "3": 20,
+        "4": 35,
+        "5": 50
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image":[
+    	"C:/Users/aambewad/Desktop/Images/110.jpg"
+    	],
+    "price": 2800,
+    "description": " Car Air Vent Mount Holder Cradle for iPhone XS XS Max X 8 8 Plus 7 7 Plus SE 6s 6 Plus 6 5s 5 4s 4 Samsung Galaxy S6 S5 S4 LG Nexus Sony Nokia ",
+    "specification": {
+        "Paper cut capacity": "Cross-cut paper shredder with 8-sheet capacity; destroys credit cards (one at a time)",
+        "Cool down process": "3 minute continuous run time with 30 minute cool down cycle with overheat LED indicator",
+        "Other ": "4.1 gallon bin with see-through window to easily determine when bin is full; Integrated lifting handle for easy emptying; Backed by AmazonBasics 1-year Limited Warranty"
+    }
+}
+
+{
+    "productId": 191,
+    "productType": "PowerBank",
+    "productName": "Moto Portable Charger Power Bank ",
+    "category": "electronics",
+    "rating": {
+        "1": 5,
+        "2": 3,
+        "3": 20,
+        "4": 35,
+        "5": 50
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+    	"C:/Users/aambewad/Desktop/Images/105.jpg"
+    	],
+    "price": 8600,
+    "description": "Apple & Micro Input 8000mAh Slim Powerbank External Cellphone Battery Backup Pack Compatible iPhone X 8 7 6 Plus Android Smartphone Samsung Galaxy etc- Gray",
+    "specification": {
+        "Apple & Micro 2 Input ": "Both iOS and Android users only need one cable to charge and discharge. It is special convenient for iPhone, say goodbye to carrying 2 cables right now.",
+        "High Capacity with High Speed ": "8000mAh can fully charge iPhone X for 2 times[NOT include Apple cable with this power bank], Galaxy S7 for 1.8 times. It can fit universal device and deliver fast and safe charge speed up to 2A. Never worry your phone will be dead.",
+        "Slim Portable Charger ": "Small size:4.72*2.75*0.63 in, weighs 7.7 oz, iPhone 8 size:5.4*2.75*0.3 in, weighs 5.2 oz. It is very convenient to take around for daily use or international travel",
+        "Certified Safe  ": " Equipped with metal fire-retardant shell, intelligent IC and premium Li-Polymer battery, multiple safety system, which provide you and your devices absolute security warranty. Over pass FCC,ROHS,CE authentication."
+    }
+}
+
+{
+    "productId": 192,
+   "productType": "Laptop",
+    "productName": "HP Laptop ",
+    "category": "electronics",
+    "rating": {
+        "1": 5,
+        "2": 3,
+        "3": 20,
+        "4": 35,
+        "5": 50
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+    	"C:/Users/aambewad/Desktop/Images/106.jpg"
+    	],
+    "price": 40800,
+    "description": "E 15, 15.6 Full HD, 8th Gen Intel Core i3-8130U, 6GB RAM Memory, 1TB HDD, 8X DVD, E5-576-392H",
+    "specification": {
+        "Intel core Gen ": "8th Generation Intel Core i3-8130U Processor (Up to 3.4GHz).",
+        "Screen ": "15.6 Full HD (1920 x 1080) widescreen LED-lit Display",
+        "Memory ": "6GB Dual Channel Memory, 1TB HDD & 8X DVD",
+        "Battery-life": " Up to 13.5-hours of battery life",
+        "Windows": "Windows 10 Home"
+    }
+}
+
+{
+    "productId": 193,
+    "productType": "Mobile",
+    "productName": "Moto",
+    "category": "electronics",
+    "rating": {
+        "1": 5,
+        "2": 3,
+        "3": 20,
+        "4": 35,
+        "5": 50
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+    	"C:/Users/aambewad/Desktop/Images/107.jpg"
+    	],
+    "price": 24800,
+    "description": "4GB / 64GB 6.3-inches Dual SIM Factory Unlocked - Taiwan Stock No Warranty (Pearl Black)",
+    "specification": {
+        "Main Camera ": "Dual: 16 MP + 5 MP, f/2.0, phase detection autofocus, LED flash; Front Camera: 24 MP, f/2.0.",
+        "Screen ": "6.3 inches, IPS LCD capacitive touchscreen, 16M colors.",
+        "Memory ": "Qualcomm Snapdragon 626 Octa-core CPU ; 64GB ROM, 4GB RAM ; Supports microSD, up to 256 GB (dedicated slot) ; 3260 mAh battery.",
+        "Package Content": "Vivo V9 , Earphone , Documentation , USB Cable , USB Power Adapter , SIM Ejector , Protective Case , Protective Film (applied). PLEASE NOTE: this is a Taiwan version of the phone that comes with no warranty in the US.",
+        "SIM ": "Dual Nano-SIM (4G + 3G) ; 4G LTE does not work in the US ; ONLY 3G works with AT&T and AT&T based GSM carriers ; DOES NOT work with Sprint, Verizon, U.S. Cellular and all other carriers"
+    }
+}
+{
+    "productId": 194,
+    "productType": "Mobile",
+    "productName": "Redmi",
+    "category": "electronics",
+    "rating": {
+        "1": 5,
+        "2": 3,
+        "3": 20,
+        "4": 35,
+        "5": 50
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+    	"C:/Users/aambewad/Desktop/Images/107.jpg"
+    	],
+    "price": 24800,
+    "description": "4GB / 64GB 6.3-inches Dual SIM Factory Unlocked - Taiwan Stock No Warranty (Pearl Black)",
+    "specification": {
+        "Main Camera ": "Dual: 16 MP + 5 MP, f/2.0, phase detection autofocus, LED flash; Front Camera: 24 MP, f/2.0.",
+        "Screen ": "6.3 inches, IPS LCD capacitive touchscreen, 16M colors.",
+        "Memory ": "Qualcomm Snapdragon 626 Octa-core CPU ; 64GB ROM, 4GB RAM ; Supports microSD, up to 256 GB (dedicated slot) ; 3260 mAh battery.",
+        "Package Content": "Vivo V9 , Earphone , Documentation , USB Cable , USB Power Adapter , SIM Ejector , Protective Case , Protective Film (applied). PLEASE NOTE: this is a Taiwan version of the phone that comes with no warranty in the US.",
+        "SIM ": "Dual Nano-SIM (4G + 3G) ; 4G LTE does not work in the US ; ONLY 3G works with AT&T and AT&T based GSM carriers ; DOES NOT work with Sprint, Verizon, U.S. Cellular and all other carriers"
+    }
+}
+
+{
+    "productId": 195,
+    "productType": "MobileAcc",
+    "productName": "SanDisk 64GB Extreme microSD",
+    "category": "electronics",
+    "rating": {
+        "1": 5,
+        "2": 3,
+        "3": 20,
+        "4": 35,
+        "5": 50
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image":[
+    	"C:/Users/aambewad/Desktop/Images/108.jpg"
+    	],
+    "price": 24800,
+    "description": "UHS-I Card with Adapter - U3 A2 - SDSQXA1-128G-GN6MA",
+    "specification": {
+        "Speed ": "Up to 160MB/s* read speeds to save time transferring high-res images and 4K UHD videos(2). Requires compatible devices capable of reaching such speeds. Compatible with microSDHC, microSDXC, microSDHC UHS-I, and microSDXC UHS-I supporting host devices",
+        "Compatible dev ": "host devices Up to 90MB/s write speeds for fast shooting.* Requires compatible devices capable of reaching such speeds.",
+        "Resisvity ": "Rated A2 for faster loading and in-app performance(8)Built for and tested in harsh conditions: temperature-proof, water-proof, shock-proof and x-ray proof(4)Get the SanDisk Memory Zone app for easy file management (available on Google Play)(3)"
+    }
+}
+
+{
+    "productId": 196,
+    "productType": "PaperShredder",
+    "productName": "8-Sheet Cross-Cut Paper and Credit Card Shredder",
+    "category": "electronics",
+    "rating": {
+        "1": 5,
+        "2": 3,
+        "3": 20,
+        "4": 35,
+        "5": 50
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image":[
+    	"C:/Users/aambewad/Desktop/Images/110.jpg"
+    	],
+    "price": 3800,
+    "description": " Car Air Vent Mount Holder Cradle for iPhone XS XS Max X 8 8 Plus 7 7 Plus SE 6s 6 Plus 6 5s 5 4s 4 Samsung Galaxy S6 S5 S4 LG Nexus Sony Nokia ",
+    "specification": {
+        "Paper cut capacity": "Cross-cut paper shredder with 8-sheet capacity; destroys credit cards (one at a time)",
+        "Cool down process": "3 minute continuous run time with 30 minute cool down cycle with overheat LED indicator",
+        "Other ": "4.1 gallon bin with see-through window to easily determine when bin is full; Integrated lifting handle for easy emptying; Backed by AmazonBasics 1-year Limited Warranty"
+    }
+}

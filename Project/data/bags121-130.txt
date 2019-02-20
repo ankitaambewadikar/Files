@@ -1,0 +1,361 @@
+{
+    "productId": 121,
+"productType": "travel",
+    "productName": "American Tourister Jamaica Polyester 80 cms Wine Red Softsided Suitcase (27O (0) 70 003)",
+    "category": "Bags And Luggage",
+    "rating": {
+        "1": 10,
+        "2": 3,
+        "3": 8,
+        "4": 20,
+        "5": 59
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/121.jpg"
+    ],
+    "price": 5099,
+    "description": "Best for travels",
+    "specification": {
+        "Outer Material": "Polyester",
+        " Casing": "Soft",
+        "Color": "Wine Red",
+        "Wear Resistant": "Not wear resistant",
+        "Capacity": "120 liters",
+        "Dimensions": "49 cms x 34.5 cms x 80 cms (LxWxH)",
+        "Lock Type": "Number Lock",
+        "Warranty type": "Manufacturer; 3 Years international warranty valid across 100 countries"
+    }
+}
+{
+    "productId": 122,
+"productType": "travel",
+    "productName": "Fur Jaden 15 Ltrs Grey Anti Theft Waterproof Backpack",
+    "category": "Bags And Luggage",
+    "rating": {
+        "1": 12,
+        "2": 5,
+        "3": 9,
+        "4": 21,
+        "5": 53
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/122.jpg"
+    ],
+    "price": 1299,
+    "description": "Grey Colour Anti Theft Light Weight Casual Waterproof Backpack for Men and Women for Stylish Office use as well as for Trendy College and School students,Easy Access Pockets on the Shoulder Strap as well on the Backside of the Bag for quick access to essentials. Huge compartment size that can fit all laptops with ease. Additional Anti Theft Pocket on the Back. Multiple pockets for other accessories",
+    "specification": {
+        "Waterproof": "Yes",
+        "Capacity": "15 liters",
+        "Color": "Wine Red",
+        "Wear Resistant": "Not wear resistant",
+        "Number of compartments": "1",
+        "Dimensions": "30 cms x 12 cms x 42 cms (LxWxH)",
+        "Charging On the Go": "With our attached charging dock, now charing on the go is easier than before",
+        "Packaging": "We've adopted a Multi Layered Packaging System to ensure our bags reaches you without a single scratch",
+        "Warranty": "100%"
+    }
+}
+{
+    "productId": 123,
+"productType": "travel",
+    "productName": "Impulse 65 Ltrs Blue Trekking Backpack (Inverse U Blue)",
+    "category": "Bags And Luggage",
+    "rating": {
+        "1": 12,
+        "2": 5,
+        "3": 9,
+        "4": 21,
+        "5": 53
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/123.jpg"
+    ],
+    "price": 1399,
+    "description": "Adjustable and breathable padded shoulder and strap to meet different requirements for both men and women, Metal Frame For Comfort And Back Support, Fibre Padded Cushioned Back",
+    "specification": {
+        "Water resistant": "Yes",
+        "Capacity": "65 liters",
+        "Color": "Navy blue",
+        "Wear Resistant": "Not wear resistant",
+        "Number of compartments": "1",
+        "Dimensions": "16 inches x 11 inches x 29 inches (LxWxH)",
+        "Charging On the Go": "With our attached charging dock, now charing on the go is easier than before",
+        "Packaging": "Complimentary Rain cover",
+        "Warranty": "100%"
+    }
+}
+{
+    "productId": 124,
+"productType": "WomenSection",
+    "productName": "Caprese Rooky Women's Satchel (Deep Red)",
+    "category": "Bags And Luggage",
+    "rating": {
+        "1": 0,
+        "2": 20,
+        "3": 0,
+        "4": 20,
+        "5": 60
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/124.jpg"
+    ],
+    "price": 2140,
+    "description": "Faux leather material deep red colored satchel,Metal Plate Logo Branding,",
+    "specification": {
+        "Water resistant": "Yes",
+        "Color": "Deep Red",
+        "Number of compartments": "2",
+        "Dimensions": "32 centimeters height x 24 centimeters length x 16 centimeters width",
+        "Instructions": "Do not expose to extreme heat",
+        "Warranty": "100%"
+    }
+}
+{
+    "productId": 125,
+"productType": "Men Section",
+    "productName": "Hornbull Men's Brown Stella Genuine Leather RFID Blocking Wallet",
+    "category": "Bags And Luggage",
+    "rating": {
+        "1": 6,
+        "2": 3,
+        "3": 8,
+        "4": 31,
+        "5": 52
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/125.jpg"
+    ],
+    "price": 494,
+    "description": "This Wallet Made in Exclusive High Quality Leather, Well Designed By Skilled Handcraft Man, Durable Cloth Lining Used, Designed To Accommodate maximum needs. Each Wallet Has Unique Natural Grain Of Leather.",
+    "specification": {
+        "Water resistant": "Yes",
+        "Color": "Deep Red",
+        "Number of compartments": "2",
+        "RFID BLOCKING SECURITY": "Our wallets are equipped with advanced RFID SECURE Technology, a unique metal composite, engineered specifically to block 13.5 MHz or higher RFID signals and protect the valuable information stored on RFID chips from unauthorized scans",
+        "Warranty": "100%",
+        "MECHANISM": "There are 6 in build Credit card slots, one Transparent Identity window for Driving License or Office I.D card, two secret compartment, 1 Coin Pocket and 2 Currency compartment carrying all your needs with extra comfort while carrying."
+    }
+}
+{
+    "productId": 126,
+"productType": "WomenSection",
+    "productName": "BFC-Women's Handbag, Sling Bag with Adjustable Strap for Ladies and Girls.",
+    "category": "Bags And Luggage",
+    "rating": {
+        "1": 26,
+        "2": 8,
+        "3": 9,
+        "4": 16,
+        "5": 41
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/126.jpg"
+    ],
+    "price": 385,
+    "description": "The tote/Sling bag (the mid-size one) Box type has 2 Main Compartment with Magnetic Closure Button. It is convenient when you only want a few items. you can use it for keys, phones, wallet etc.",
+    "specification": {
+        "MATERIAL": "High Quality Polyurethane PU Leatherette Leather with Polyester Lining Inside",
+        "Dimensions": "26 cm x Width: 12 cm x Height: 20 cm with strap Height: 48 cm.",
+        "Number of compartments": "2",
+        "STRAP TYPE": "Fixed Adjustable Strap.",
+        "Warranty": "100%",
+        "COLOR": "Dark Blue"
+    }
+}
+{
+    "productId": 127,
+"productType": "Men Section",
+    "productName": "Hammonds Flycatcher Brown Leather Laptop Bag for Men",
+    "category": "Bags And Luggage",
+    "rating": {
+        "1": 26,
+        "2": 8,
+        "3": 9,
+        "4": 16,
+        "5": 41
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/127.jpg"
+    ],
+    "price": 1785,
+    "description": "The tote/Sling bag (the mid-size one) Box type has 2 Main Compartment with Magnetic Closure Button. It is convenient when you only want a few items. you can use it for keys, phones, wallet etc.",
+    "specification": {
+        "MATERIAL": " Nylon, Leather, Fabric",
+        "Dimensions": "26 cm x Width: 12 cm x Height: 20 cm with strap Height: 48 cm.",
+        "Number of compartments": "2",
+        "STRAP TYPE": "Fixed Adjustable Strap.",
+        "Warranty": "100%",
+        "COLOR": " Brown",
+        "Bag Type": "Messenger Bag, Laptop Bag"
+    }
+}
+{
+    "productId": 128,
+"productType": "travel",
+    "productName": "Wildcraft 31 Ltrs Blue Casual Backpack (11653-Blue)",
+    "category": "Bags And Luggage",
+    "rating": {
+        "1": 26,
+        "2": 8,
+        "3": 9,
+        "4": 16,
+        "5": 41
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/128.jpg"
+    ],
+    "price": 1785,
+    "description": "Th Box type has 2 Main Compartment ,can be used as childern school bag.",
+    "specification": {
+        "Outer Material": "Polyester",
+        " Color": "Blue",
+        "Capacity": "31 liters",
+        " Dimensions": "8 inches x 13 inches x 18.5 inches (LxWxH)",
+        "Number of compartments": "2",
+        "Warranty type": "Manufacturer; 5 years manufacturer warranty is non-transferable and valid for 5 years from the original date of purchase"
+    }
+}
+{
+    "productId": 129,
+"productType": "travel",
+    "productName": "Urban Tribe Plank 23 Liters Gym Bag with Separate Shoe Compartment (Indigo)",
+    "category": "Bags And Luggage",
+    "rating": {
+        "1": 26,
+        "2": 8,
+        "3": 9,
+        "4": 16,
+        "5": 41
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/129.jpg"
+    ],
+    "price": 1229,
+    "description": "Th Box type has 2 Main Compartment ,can be used as childern school bag.",
+    "specification": {
+        "Compartments": "1 Shoe compartment+2compartments",
+        "Strap type": "Adjustable Strap",
+        "Bottle compartment": "Inside Pocket for Shaker/Water bottle",
+        "Side Holder": "present"
+    }
+}
+{
+    "productId": 130,
+    "productType": "KidsSection",
+    "productName": "Cute Toddler Backpack ",
+    "category": "Bags And Luggage",
+    "rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 100
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/130.jpg"
+    ],
+    "price": 649,
+    "description": "Cute Toddler Backpack Soft Plush Material School Bag Mini Travel Bag for Baby Girl Boy 1-6 Years(Despicable Me)",
+    "specification": {
+        "Perfect-Size for Little Ones SIZE": "12*10 inches (30*25 cm) in height*length Made of super soft plush material and high quality smooth zipper accessories. Small backpack suitable for toddler baby kids girl and boy between 1-6 years old. This bag is perfect for toddlers so it's not a big bag",
+        "HIGH-QUALITY Materials": "The backpack is put on safe materials with no poisonous smell. Weight: 200g. easy for your kids to carry around. Light weight material and soft feel, kids must like it!",
+        "ADJUSTABLE": "The shoulder straps are padded that added comfort. And a top handle for easy carrying or snuggling, perfect for school, travel. It is good size for pre-school kids.",
+        "MULTI FUNCTIONAL": "One small front pocket and a main compartment. Enough space for kid's backpacking snacks during picnic or parenting travel Roll / Tuck diapers or nappies, wipes, toys, change clothes into cushioned roomy main compartment as a necessary mommy's bag.",
+        "SUPER SMOOTH, SOFT & BIGHT COLORS": "Best gifts for Christmas, kid's school season, ideal for playing at the park, going to kindergarten, traveling and any other outdoor activities. a unique backpack can be used as backpack, but also as a toy; AND the backpack is useful in teaching your children how to organize their items"
+    }
+}
+
+{
+    "productId": 197,
+    "productType": "travel",
+    "productName": "SkyBags Jamaica Polyester 80 cms Wine Red Softsided Suitcase (27O (0) 70 003)",
+    "category": "Bags And Luggage",
+    "rating": {
+        "1": 10,
+        "2": 3,
+        "3": 8,
+        "4": 20,
+        "5": 59
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/121.jpg"
+    ],
+    "price": 5099,
+    "description": "Best for travels",
+    "specification": {
+        "Outer Material": "Polyester",
+        " Casing": "Soft",
+        "Color": "Wine Red",
+        "Wear Resistant": "Not wear resistant",
+        "Capacity": "120 liters",
+        "Dimensions": "49 cms x 34.5 cms x 80 cms (LxWxH)",
+        "Lock Type": "Number Lock",
+        "Warranty type": "Manufacturer; 3 Years international warranty valid across 100 countries"
+    }
+}

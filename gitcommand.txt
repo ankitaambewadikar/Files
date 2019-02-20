@@ -1,0 +1,94 @@
+
+.bottomRight{
+    position: absolute;
+    bottom:60px;
+    right:95px;
+    font-size: 18px;
+    background-color:red;
+    width: 500px;
+    padding: 10px;
+    margin: 30px;
+};
+
+
+.footer {
+    position: absolute;
+    background-color:burlywood;
+    padding: 100px;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 50px;
+}
+
+
+
+
+
+aambewad@IN-MUM-LNVDI121 MINGW64 /c/Git_Assignments
+$ git init
+Initialized empty Git repository in C:/Git_Assignments/.git/
+
+aambewad@IN-MUM-LNVDI121 MINGW64 /c/Git_Assignments (master)
+$ git status
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        Branch_Assignment.txt.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+aambewad@IN-MUM-LNVDI121 MINGW64 /c/Git_Assignments (master)
+$ git add .
+
+aambewad@IN-MUM-LNVDI121 MINGW64 /c/Git_Assignments (master)
+$ git status
+On branch master
+
+Initial commit
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   Branch_Assignment.txt.txt
+
+
+aambewad@IN-MUM-LNVDI121 MINGW64 /c/Git_Assignments (master)
+$ git congig --global user.email "ankitaambewadikar@gmail.com"
+git: 'congig' is not a git command. See 'git --help'.
+
+The most similar command is
+        config
+
+aambewad@IN-MUM-LNVDI121 MINGW64 /c/Git_Assignments (master)
+$ git config --global user.email "ankitaambewadikar@gmail.com"
+
+aambewad@IN-MUM-LNVDI121 MINGW64 /c/Git_Assignments (master)
+$ git remote add origin https://github.com/ankitaambewadikar/Git_Assignment.git
+
+aambewad@IN-MUM-LNVDI121 MINGW64 /c/Git_Assignments (master)
+$ git commit -m "Adds Branch Assignment"
+[master (root-commit) a53576c] Adds Branch Assignment
+ 1 file changed, 46 insertions(+)
+ create mode 100644 Branch_Assignment.txt.txt
+
+aambewad@IN-MUM-LNVDI121 MINGW64 /c/Git_Assignments (master)
+$ git push origin master
+fatal: HttpRequestException encountered.
+   An error occurred while sending the request.
+Username for 'https://github.com': ankitaambewadikar
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 732 bytes | 0 bytes/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+remote:
+remote: Create a pull request for 'master' on GitHub by visiting:
+remote:      https://github.com/ankitaambewadikar/Git_Assignment/pull/new/maste
+remote:
+To https://github.com/ankitaambewadikar/Git_Assignment.git
+ * [new branch]      master -> master
+

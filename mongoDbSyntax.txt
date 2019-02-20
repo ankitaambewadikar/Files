@@ -1,0 +1,5 @@
+db.employees.insertMany([{empId:109,empName:"tejes",salary:15000},
+{empId:110,empName:"Shubham",salary:8000},
+{empId:111,empName:"tushar",salary:1000}],
+{orderd:true}
+);

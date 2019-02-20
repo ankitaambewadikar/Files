@@ -1,0 +1,297 @@
+{
+    "productId": 111,
+"productType": "Novels",
+    "productName": "The Power of your Subconscious Mind ",
+    "category": "books",
+    "rating": {
+        "1": 4,
+        "2": 2,
+        "3": 5,
+        "4": 19,
+        "5": 70
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/111.jpg"
+    ],
+    "price": 244,
+    "description": "The book contains 312 pages of wisdom and positive energy. The modern English language used is easy to understand.",
+    "specification": {
+        "Product Dimensions": "The book is sized at 19.6 x 13 x 2.5 cm which makes portable in nature."
+    }
+}
+{
+    "productId": 112,
+"productType": "Novels",
+    "productName": "The Alchemist ",
+    "category": "books",
+    "rating": {
+        "1": 2,
+        "2": 1,
+        "3": 5,
+        "4": 17,
+        "5": 75
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/112.jpg"
+    ],
+    "price": 209,
+    "description": " The Alchemist presents a simple fable, based on simple truths and places it in a highly unique situation.",
+    "specification": {
+        "Paperback": "172 pages",
+        "Publisher": "Harper; Later Printing edition",
+        "Language": "English",
+        "Product Dimensions": "12.9 x 1.5 x 19.8 cm"
+    }
+}
+{
+    "productId": 113,
+"productType": "Novels",
+    "productName": "Wings of Fire: An Autobiography of Abdul Kalam ",
+    "category": "books",
+    "rating": {
+        "1": 3,
+        "2": 2,
+        "3": 4,
+        "4": 16,
+        "5": 75
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/113.jpg"
+    ],
+    "price": 249,
+    "description": " 'The Wings of Fire' traces the rise and the mark Dr APJ Abdul Kalam made in life.",
+    "specification": {
+        "Paperback": "180 pages",
+        "Publisher": "Universities Press; 1st edition (1999)",
+        "Language": "English",
+        "Product Dimensions": "15.9 x 1.1 x 23.9 cm"
+    }
+}
+{
+    "productId": 114,
+"productType": "StudyBook",
+    "productName": "Head First Java: A Brain-Friendly Guide, 2nd Edition ",
+    "category": "books",
+    "rating": {
+        "1": 10,
+        "2": 3,
+        "3": 4,
+        "4": 18,
+        "5": 75
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+    	"C:/Users/aambewad/Desktop/Images/114.jpg"
+    	],
+    "price": 600,
+    "description": " To make the learning and remembering tasks easier, the book comes with numerous puzzles, striking visuals, mysterious problems and certain soul-searching interviews to make the computer programming more engaging and playful.",
+    "specification": {
+        "Paperback": "742 pages",
+        "Publisher": "Shroff; Second edition (2009)",
+        "Language": "English",
+        "Product Dimensions": "23.6 x 18.4 x 3.6 cm"
+    }
+}
+{
+    "productId": 115,
+"productType": "StudyBook",
+    "productName": "Scjp Sun Certified Programmer for Java 6 Study Guide",
+    "category": "books",
+    "rating": {
+        "1": 2,
+        "2": 0,
+        "3": 2,
+        "4": 14,
+        "5": 82
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/115.jpg"
+    ],
+    "price": 575,
+    "description": "SCJP Sun Certified Programmer for Java 6 Study Guide (Exam 310-065) is a study guide that has been written by those developers who came up with the Sun Certified Programmer for Java exam. This study guide is inclusive of all the latest updates and objectives that have been made to the new release of this exam.",
+    "specification": {
+        "Paperback": "890 pages",
+        "Publisher": "McGraw Hill Education (8 July 2008)",
+        "Language": "English",
+        "Product Dimensions": "47.5 x 10.4 x 61.5 cm"
+    }
+}
+{
+    "productId": 116,
+"productType": "Novels",
+    "productName": "Origin (Robert Langdon)",
+    "category": "books",
+    "rating": {
+        "1": 6,
+        "2": 5,
+        "3": 18,
+        "4": 23,
+        "5": 48
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/116.jpg"
+    ],
+    "price": 228,
+    "description": "Origin is the latest Robert Langdon novel from the author of the Da Vinci Code. 'Fans will not be disappointed' the Times Robert Langdon, Harvard professor of symbology and religious iconology, arrives at the Guggenheim Museum Bilbao to attend the unveiling of an astonishing scientific breakthrough.",
+    "specification": {
+        "Paperback": "560 pages",
+        "Publisher": "Corgi (15 November 2018)",
+        "Language": "English",
+        "Product Dimensions": "12.7 x 3.3 x 19.8 cm"
+    }
+}
+{
+    "productId": 117,
+"productType": "Novels",
+    "productName": "Inferno (Robert Langdon)",
+    "category": "books",
+    "rating": {
+        "1": 6,
+        "2": 5,
+        "3": 18,
+        "4": 23,
+        "5": 48
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/117.jpg"
+    ],
+    "price": 320,
+    "description": " Inferno is Dan Brown's most compelling and thought-provoking novel yet, a breathless race-against-time thriller that will grab you from page one and not let you go until you close the book.",
+    "specification": {
+        "Paperback": "619 pages",
+        "Publisher": "Corgi; Latest edition (5 May 2014)",
+        "Language": "English",
+        "Product Dimensions": " 17.8 x 11 x 4.4 cm"
+    }
+}
+{
+    "productId": 118,
+"productType": "Novels",
+    "productName": "The Monk Who Sold His Ferrari ",
+    "category": "books",
+    "rating": {
+        "1": 3,
+        "2": 2,
+        "3": 5,
+        "4": 19,
+        "5": 71
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/118.jpg"
+    ],
+    "price": 128,
+    "description": " A bestselling novel, what readers all over the globe appreciate about this book is its deft amalgam of the philosophies from both western and eastern worlds. The book has been followed by important personalities around the world.",
+    "specification": {
+        "Paperback": "198 pages",
+        "Publisher": "Jaico Publishing House; First edition (25 September 2003)",
+        "Language": "English",
+        "Product Dimensions": "13.3 x 1.3 x 21 cm"
+    }
+}
+{
+    "productId": 119,
+"productType": "Novels",
+    "productName": "Think and Grow Rich!",
+    "category": "books",
+    "rating": {
+        "1": 3,
+        "2": 2,
+        "3": 4,
+        "4": 18,
+        "5": 70
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/119.jpg"
+    ],
+    "price": 124,
+    "description": "Think and Grow Rich, is a book that will not just change what you think -it will change the way you think.",
+    "specification": {
+        "Paperback": "412 pages",
+        "Publisher": " Jaico Publishing House; First edition (28 July 2007)",
+        "Language": "English",
+        "Product Dimensions": "22.6 x 15 x 2.4 cm"
+    }
+}
+{
+    "productId": 120,
+"productType": "Novels",
+    "productName": "The Immortals of Meluha (Shiva Trilogy) ",
+    "category": "books",
+    "rating": {
+        "1": 3,
+        "2": 1,
+        "3": 4,
+        "4": 19,
+        "5": 73
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/171_1.jpg"
+    ],
+    "price": 218,
+    "description": "The Immortals of Meluha' draws heavily from stories and legends of Hindu mythology that have been passed on from generation to generation.",
+    "specification": {
+        "Paperback": "415 pages",
+        "Publisher": "Westland; Latest Edition edition (24 July 2017)",
+        "Language": "English",
+        "Product Dimensions": "12.9 x 2.8 x 19.8 cm"
+    }
+}

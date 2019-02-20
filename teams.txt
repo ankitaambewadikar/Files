@@ -1,0 +1,89 @@
+https://www.javainuse.com/spring/spring-cloud-netflix-zuul-tutorial
+https://howtodoinjava.com/spring-cloud/spring-cloud-api-gateway-zuul/
+https://howtodoinjava.com/spring-cloud/spring-cloud-api-gateway-zuul/
+
+
+The Spring Cloud solutions are agnostic to the deployment environment, and can be developed and deployed in a desktop PC or in an elastic cloud.
+
+
+What is Spring Cloud?
+
+The Spring Cloud solutions are agnostic to the deployment environment, and can be developed and deployed in a desktop PC or in an elastic cloud.
+
+When not using Spring Cloud, developers will end up using services natively provided by the cloud vendors, resulting in deep coupling with the PaaS providers.
+
+https://techblog.constantcontact.com/software-development/circuit-breakers-and-microservices/
+
+https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring
+
+IoC is also known as dependency injection (DI). It is a process whereby objects define their dependencies, that is, the other objects they work with, 
+only through constructor arguments, arguments to a factory method, or properties that are set on the object instance after it is constructed or returned from a factory method.
+ The container then injects those dependencies when it creates the bean. This process is fundamentally the inverse, hence the name Inversion of Control (IoC)
+
+https://docs.spring.io/spring/docs/3.2.x/spring-framework-reference/html/aop.html
+
+https://www.baeldung.com/spring-aop
+
+https://terasolunaorg.github.io/guideline/1.0.1.RELEASE/en/_images/RequestLifecycle.png
+
+https://justforchangesake.wordpress.com/2014/05/07/spring-mvc-request-life-cycle/
+
+https://terasolunaorg.github.io/guideline/1.0.1.RELEASE/en/Overview/SpringMVCOverview.html
+
+https://whatis.techtarget.com/definition/messaging
+
+https://docs.oracle.com/cd/E19798-01/821-1841/bncds/index.html
+
+https://dzone.com/articles/drastically-improving-your
+
+
+https://eventuallyconsistent.net/2013/08/12/messaging-as-a-programming-model-part-1/
+
+https://www.joeforshaw.com/blog/message-oriented-programming
+
+https://solace.com/blog/products-tech/experience-awesomeness-event-driven-microservices
+
+
+https://spring.io/guides/gs/messaging-rabbitmq/
+
+
+Managing complexity within an application is one of the key challenges for any software developer. Cleanly reconciling new features with existing architectures is something we strive for.
+
+After working on a sizeable Xamarin app for the last two years, the single most powerful tool that I’ve discovered is “Message Passing”, also known as Message Oriented Programming (MOP). MOP is a flavour of object-oriented programming (OOP) with the core idea that your objects shouldn’t directly call each other, but communicate by passing messages via a message bus. Messages have a specific type and can contain as many arguments as required. For example, if your view model object needs to call your API accessor object, instead of the view model directly calling a method belonging to your API accessor, it will send a message of a specific type to the message bus. The bus will forward the message to other objects which have subscribed to receive messages of that message type.
+
+Advantages
+It may initially seem like unneeded overhead, but the benefits are huge…
+
+1. Coupling between callers and responders is removed. This makes life much easier when we want to refactor our code, since objects don’t directly reference one another.
+
+2. Dependencies can be changed on the fly. Because objects can subscribe to and unsubscribe from messages whenever they like, we can dynamically change behaviour as required.
+
+3. Messages can be dispatched to multiple subscribers. Multiple objects can simultaneously listen for messages of the same type. This means when an event occurs that requires updates to several different parts our system, so long as all parts are subscribed to the correct message type, we don’t need to notify each part individually.
+
+For example, a user goes into the user profile page of our app and updates their name. The app now needs to update…
+
+The name displayed on the dashboard page.
+The name stored in the local SQLite database.
+The name stored in backend database of the app.
+The name stored in the mailing list service used by our app.
+Etc, etc…
+From a coupling standpoint, this could potentially be a nightmare. However with MOP, we can create small, cohesive classes which each handle one of these responsibilities. They just need to subscribe to a UserNameUpdated message and perform their responsibility appropriately. When the profile view model receives the update to the user’s name, it can dispatch a UserNameUpdated message and know that everything will be sorted out elsewhere.
+
+4. Classes can be deprecated easily. If tomorrow I wanted to replace MyOldAndBuggyClass.cs which handled all Foo messages, it would be easy. I simply create MyBetterClass.cs, instruct it to subscribe to Foo messages and assuming MyBetterClass.cs properly handled all Foo messages, we could safely remove MyOldAndBuggyClass.cs.
+
+5. Testing is easy. Using MOP, classes essentially become functions which receive messages as input and dispatch messages as output. Therefore to test a class, we can dispatch messages with specific parameters and assert that the code in question outputs the correct messages in response. Often a special testing message bus is used to record any messages that are sent. This allows our test cases to determine if the class being tested fired the messages we expected it to.
+
+Disadvantages
+Like most things the pros come with cons:
+
+1. Memory and processing overhead. Sending messages comes with a memory and processing cost, dependent on the size of data being passed around inside your messages. Since objects communicating via message passing shouldn’t share their encapsulated state, data added to messages needs to be copied to avoid any side-effects occurring if the message data, for some reason, get modified by subscribers.
+
+2. Message types can get out of hand. Because objects communicate with one another in many different ways, the number of message types you need can balloon rapidly. Some implementations of MOP require a unique class for each type of message, which depending on the language used, can really muddy up your codebase. Others use unique strings to represent a message type. Whatever the implementation, the number of message types can become very large and needs careful management.
+
+3. It’s harder to reason out program flow. Because of the dynamic nature of objects subscribing and unsubscribing from message whenever they like, it can be much harder to figure out the exact flow that your application will take. This can make debugging somewhat trickier.
+
+
+
+https://coderanch.com/t/667396/certification/Diffrence-synchronous-asynchronous-messaging
+
+

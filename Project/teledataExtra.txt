@@ -1,0 +1,335 @@
+{        
+     "productId": 171,       
+    "productName": "Sony 108 cm (43 Inches) Full HD LED Smart Android TV KDL-43W800F (Black) (2018 model)",        
+    "category": "Television",        
+    "rating": {            
+                "1": 9,            
+                "2": 3,            
+                "3": 8,           
+                "4": 23,            
+                "5": 57       
+               },
+    "review": {
+                "1":"Excellent",            
+                "2":"Good",            
+                "3":"Moderate",            
+                "4":"Bad"        
+              },
+    "image": null,        
+    "price": 55990,        
+    "description": "Experience exquisite detail and texture on this Full HD TV. Everything you watch is refined to ensure minimum noise and maximum impact. See the difference in buildings and seascapes.",
+    "specification": {
+                       "Resolution" : "Full HD (1920x1080p),
+                       "Refresh Rate": "50 hertz",
+                       "Display":"Full HD LED,X-Reality Pro, HDR"
+                       "Smart TV Features": "Built-in WiFi,Android TV,Voice Search,Google Play,Built-in Chromecast,Phone Notifications",
+                       "Connectivity": "4 HDMI ports to connect set top box, Blu Ray players, gaming console | 3 USB ports to connect hard drives and other USB devices",
+                       "Sound" : "10 Watts Output,Clear Audio+,Bass Reflex Speaker",
+                       "Warranty" : "1 year standard manufacturer warranty from Sony",
+                       "Additional Information": "X-Protection Pro,Slice of Living Design",
+                       "Easy returns":"This product is eligible for replacement/refund within 10 days of delivery in case of any product defects, damage or features not matching the description provided"
+ 
+                      }    
+    
+ }
+
+  {        
+     "productId": 172,       
+    "productName": "Sanyo 107.95 cm (43 Inches) 4K UHD IPS LED Smart Certified Android TV XT-43A081U (Dark Grey)",        
+    "category": "Television",        
+    "rating": {            
+                "1": 6,            
+                "2": 1,            
+                "3": 7,           
+                "4": 24,            
+                "5": 60       
+               },
+    "review": {
+                "1":"Excellent",            
+                "2":"Good",            
+                "3":"Moderate",            
+                "4":"Bad"        
+              },
+    "image": null,        
+    "price": 37990,        
+    "description": "Enjoy the best of both worlds with Sanyo meeting Android to create matchless entertainment. Indulge in personalised content, thoughtfully curated to match your discerning taste. Discover voice search, blockbuster movies, live sports, streaming apps and multiplayer games, right on your fingertips. With Sanyo Android series, get ready to switch on a whole new world of entertainment.",
+    "specification": {         
+                        "Resolution": "Ultra HD 4K (3840x2160)",
+                        "Refresh Rate": "60 Hz",
+                        "Display": "IPS 4K Display,1.07 Billion colour palette,HDR 10",
+                        "Sound": "20W Output,Dolby Digital,Sound Out Feature for Home Theater systems",
+                        "Smart TV Features":"Google Certified Android TV,Android Oreo 8.0,Voice Search through Google Assistant,Chromecast Built-in",
+                        "Warranty Information": "1 year warranty provided by Sanyo from date of purchase",
+                        "Official Google Play App Store": "Download your favourite Apps, Games, Music,Youtube,Google Play Music,Google Play Movies & ,Brushed Metallic Finish ,Slim Bezel,Free Wall Mount & Brand Installation",
+     
+                      }    
+    
+ }
+
+ {         
+     "productId": 173,        
+    "productName": "LG 80 cm (32 Inches) HD Ready LED Smart TV 32LJ573D (Mineral Silver) (2017 model)",         
+    "category": "Television",         
+    "rating": {             
+                "1": 9,             
+                "2": 2,             
+                "3": 5,            
+                "4": 29,             
+                "5": 55        
+               },  
+    "review": {
+                "1":"Excellent",             
+                "2":"Good",             
+                "3":"Moderate",             
+                "4":"Bad"         
+              },  
+    "image": null,         
+    "price": 20000,         
+    "description": "The secret behind LG TV’s life-like color and wide viewing angle is the panel. Just as the quality of the beans determines the quality of the coffee, the quality of the panel determines the quality of the TV. The IPS Panel used by LG is the reason why LG LED TVs have clearer, more consistent, and sturdy screens. Life-like Color: IPS offers a color impression that is most identical to that of the original image. The colors are truly closest to nature and most comfortable for the eyes. Wide Viewing Angle: Among LCD panels, it is visibly clear that IPS shows the most consistent color and contrast from all angles. Free from color wash and contrast loss, it is the ideal panel for all purposes.",
+    "specification": {      
+                        "Resolution": "HD Ready (1366x768p) ",
+                        "Refresh Rate": "50 Hz",
+                        "Display": "Life-like Colour,Wide Viewing Angle,Colour Master Engine",
+                        "Connectivity":"2 HDMI ports to connect set top box, Blu Ray players, gaming console | 1 USB ports to connect hard drives and other USB devices",
+                        "Sound": "20 Watts Output",
+                        "Smart TV Features": "WebOS,Built-in WiFi",
+                        "Warranty Information": "1 year warranty provided by Sanyo from date of purchase",
+                        "Easy returns": "This product is eligible for replacement/refund within 10 days of delivery in case of any product defects, damage or features not matching the description provided"
+      
+                      }     
+     
+ }
+ 
+ {         
+     "productId": 174,        
+    "productName": "Samsung 80 cm (32 Inches) Series 4 HD Ready LED Smart TV UA32N4300AR (Black) (2018 model)",         
+    "category": "Television",         
+    "rating": {             
+                "1": 11,             
+                "2": 11,             
+                "3": 22,            
+                "4": 0,             
+                "5": 56        
+               },  
+    "review": {
+                "1":"Excellent",             
+                "2":"Good",             
+                "3":"Moderate",             
+                "4":"Bad"         
+              },  
+    "image": null,         
+    "price": 349,         
+    "description": "Enjoy Concert like experience with 40W & 4 Channel speakers surround sound. Samsung SmartThings App allows seamless screen & sound convergence using just one App. You can use the TV as a Bluetooth speaker or easily connect your TV to any Bluetooth sound system with our Bluetooth 2-way audio feature. Most intuitive and easy to navigate interface along with access to bouquet of online content in 15000+ titles & 10+ languages from international & Indian partners.",
+    "specification": {          
+                        "Resolution":"HD Ready (Resolution: 1366 x 768p)",
+                        "Refresh Rate": "120 hertz",
+                        "Connectivity":"Input: 2*HDMI, 1*USB",
+                        "Audio": "40 W output",
+                        "Warranty Information": "1 year"
+ 
+                      }     
+     
+ }
+ {        
+     "productId": 175,       
+    "productName": "Kodak 80 cm (32 Inches) HD Ready LED Smart TV Kodak 32HDXSMART (Black)",        
+    "category": "Television",        
+    "rating": {            
+                "1": 11,            
+                "2": 3,            
+                "3": 5,           
+                "4": 20,            
+                "5": 61       
+               },
+    "review": {
+                "1":"Excellent",            
+                "2":"Good",            
+                "3":"Moderate",            
+                "4":"Bad"        
+              },
+    "image": null,        
+    "price": 11990,        
+    "description": "This sleek HD Ready Smart TV offers you a better and smarter way to watch television. It facilitates seamless Wi-Fi and LAN connectivity. Its wire-free design aims to make your home a clutter-free zone.Among top 10 brands in the world, 127 years old brand, 95% brand recall, 350 service centers across India and 23 branch offices. Smart Features: Dynamic Picture Enhancement, Miracast Technology, HDMI & USB Connectivity and Quick Interface.",
+    "specification": {         
+                        "Resolution": "HD Ready (1366x768p)",
+                        "Refresh Rate": "60 Hertz",
+                        "Display": "HD Ready,A+ Grade IPS Panel,Premium Finish Design",
+                        "Connectivity": "3 HDMI ports to connect set top box, Blu Ray players, gaming console,2 USB ports to connect hard drives and other USB devices,1 VGA Port to connect the laptop",
+                        "SmartTV Features": "Android based Smart TV with ARM Cortex – A7 core processor(1 GB of RAM & 8 GB ROM),Supporting Application : Netflix, Hotstar & YouTube",
+                        "Sound": "20 Watts Output,In-built box speakers",
+                        "Warranty details":"1 year manufacturer warranty from the date of purchase from Kodak",
+                        "Easy Returns":"This product is eligible for full refund within 10 days of delivery in case of any product defects, damage or features not matching the description provided"
+     
+                      }    
+    
+ }
+
+  {        
+     "productId": 176,       
+    "productName": "BPL 123 cm (49 inches) 4K Ultra HD Smart LED TV BPL123E36S4C (Black)",        
+    "category": "Television",        
+    "rating": {            
+                "1": 16,            
+                "2": 4,            
+                "3": 10,           
+                "4": 23,            
+                "5": 47       
+               },
+    "review": {
+                "1":"Excellent",            
+                "2":"Good",            
+                "3":"Moderate",            
+                "4":"Bad"        
+              },
+    "image": null,        
+    "price": 620,        
+    "description": "Develop world-class products for Indian homes, healthcare providers and institutions that are founded on excellent research and an undying commitment to quality.",
+    "specification": {         
+                        "Resolution": " 4K Ultra HD (3840x2160p)",
+                        "Refresh Rate": "60 Hertz",
+                        "Viewing Angle": "170 degrees",
+                        "Display": " Ultra HD,A+ Grade Panel",
+                        "Connectivity": "3 HDMI ports to connect set top box, Blu Ray players, gaming console,2 USB ports to connect hard drives and other USB devices,1 VGA Port to connect the laptop",
+                        "SmartTV Features": " Built-in WiFi,Smart Remote Control",
+                        "Sound": "16 Watts Output,In-built box speakers,Digital audio output",
+                        "Warranty details":"1 year standard manufacturer warranty from BPL",
+                        "Easy Returns":"This product is eligible for full refund within 10 days of delivery in case of any product defects, damage or features not matching the description provided"
+                      }    
+    
+ }
+{        
+     "productId": 177,       
+    "productName": "Sony Bravia 80 cm (32 Inches) Full HD LED Smart TV KLV-32W672F (Black) (2018 model)",        
+    "category": "Television",        
+    "rating": {            
+                "1": 10,            
+                "2": 2,            
+                "3": 2,           
+                "4": 14,            
+                "5": 72       
+               },
+    "review": {
+                "1":"Excellent",            
+                "2":"Good",            
+                "3":"Moderate",            
+                "4":"Bad"        
+              },
+    "image": null,        
+    "price": 32980 ,        
+    "description": "Discover the total entertainment package with ultra-clear Full HD pictures, enhanced by the magic of X-Reality PRO™ and powerful bass sound from a built-in subwoofer. Connect instantly to the world of Internet content with features like USB Tethering and Direct YouTube Button.",
+    "specification": {         
+                        "Resolution": "   Full HD (1920x1080p) ",
+                        "Refresh Rate": "50 Hertz",
+                        "Display": "X-Reality Pro,HDR",
+                        "Connectivity": "2 HDMI ports to connect set top box, Blu Ray players, gaming console,2 USB ports to connect hard drives and other USB devices,1 VGA Port to connect the laptop",
+                        "SmartTV Features": " Built-in WiFi,Smart Remote Control",
+                        "Sound": "30 Watts Output,In-built box speakers,Digital audio output",
+                        "Warranty details":"1 year standard manufacturer warranty from BPL",
+                        "Easy Returns":"This product is eligible for full refund within 10 days of delivery in case of any product defects, damage or features not matching the description provided"
+                      }    
+    
+ }
+
+  {        
+     "productId": 178,       
+    "productName": "TCL 99.8 cm (40 Inches) Full HD LED Smart TV 40S62FS (Black)",        
+    "category": "Television",        
+    "rating": {            
+                "1": 14,            
+                "2": 3,            
+                "3": 10,           
+                "4": 30,            
+                "5": 43       
+               },
+    "review": {
+                "1":"Excellent",            
+                "2":"Good",            
+                "3":"Moderate",            
+                "4":"Bad"        
+              },
+    "image": null,        
+    "price": 21300,        
+    "description": "From TCL : Global top 3 Television Brand With the slim and stylish virtually frameless picture, now experience visuals that seem to have no end on the TCL D3000 series. The TCL 3000 TV supports MP3, WMA, Dolby AC3 and MPEG2, MPEG4 (H.264) video coding. Multiple external inputs, including 2 USB and 2 HDMI ports amongst others, support a range of peripheral devices. Experience sound with surround effect on the two channel speakers with TCL's own developed sophisticated software.",
+    "specification": {         
+                               
+                        "Resolution": "   Full HD (1920x1080p) ",
+                        "Refresh Rate": "60 Hertz",
+                        "Display": "A+ Grade FHD Panel,Dynamic Picture Enhancement,Sports Mode,Micro Dimming,Narrow Bezel/Slim Design",
+                        "Connectivity": "3 HDMI ports to connect set top box, Blu Ray players, gaming console,2 USB ports to connect hard drives and other USB devices,1 VGA Port to connect the laptop",
+                        "SmartTV Features": "TCL Launcher/Dual Core CPU+CPU,TCL App Store,Netflix and Youtube,WiFi Display (Screen Mirroring),T-cast",
+                        "Sound": "16 Watts Output,In-built box speakers,Digital audio output",
+                        "Warranty details":"1 year warranty provided by TCL from date of purchase",
+                        "Easy Returns":"This product is eligible for full refund within 10 days of delivery in case of any product defects, damage or features not matching the description provided"
+                     
+                      }    
+    
+ }
+ {        
+     "productId": 179,       
+    "productName": "Sony Bravia 138 cm (55 Inches) 4K UHD OLED Smart TV KD-55A8F (Black) (2018 model)",        
+    "category": "Television",        
+    "rating": {            
+                "1": 23,            
+                "2": 0,            
+                "3": 0,           
+                "4": 15,            
+                "5": 62       
+               },
+    "review": {
+                "1":"Excellent",            
+                "2":"Good",            
+                "3":"Moderate",            
+                "4":"Bad"        
+              },
+    "image": null,        
+    "price": 249990,        
+    "description": "Awaken a new TV experience with BRAVIA OLED A8F series, 4K HDR TV powered by 8 million self-emitting pixels. Pictures are truly real with perfect blacks providing ultimate contrast & shadow expression with vibrant colour. The innovative Acoustic Surface™ technology delivers immersive & engaging sound directly from the screen.",
+    "specification": {         
+                        "Resolution": " 4K Ultra HD (3840x2160p) ",
+                        "Refresh Rate": "100 Hertz",
+                        "Display": "4K HDR,4K X-Reality Pro,OLED,Dolby Vision",
+                        "Connectivity": "4 HDMI ports to connect set top box, Blu Ray players, gaming console,3 USB ports to connect hard drives and other USB devices",
+                        "Sound" : "50 Watts Output,Clear Audio+,Acoustic Surface Technology",
+                        "SmartTV Features": "Built-in WiFi,Android TV,Voice Search,Google Play Store,Chromecast,Notify Bravia,Netflix Recommended TV, Content Bar,Amazon Prime Video,TV MusicBox",
+                        "Warranty details":"1 year standard manufacturer warranty from Sony",
+                        "Additional Information": "X-Protection Pro,Table Top Stand,One Slate Design",
+                        "Easy Returns":"This product is eligible for full refund within 10 days of delivery in case of any product defects, damage or features not matching the description provided"
+                      }    
+    
+ }
+
+ {        
+     "productId": 180,       
+    "productName": "LG 195.6 cm (77 Inches) 4K UHD OLED Smart TV OLED77C8PTA (Black) (2018 model)",        
+    "category": "Television",        
+    "rating": {            
+                "1": 14,            
+                "2": 0,            
+                "3": 0,           
+                "4": 7,            
+                "5": 79       
+               },
+    "review": {
+                "1":"Excellent",            
+                "2":"Good",            
+                "3":"Moderate",            
+                "4":"Bad"        
+              },
+    "image": null,        
+    "price": 842990,        
+    "description": "OLED,Now Meets AI",
+    "specification": {         
+                        "Resolution": " 4K (Resolution: 3840 x 2160p)",
+                        "Refresh Rate": "100 Hertz",
+                        "Display": "Dolby atmos, 4K Cinema HDR with Dolby Vision,2018 OLED award, OLED display",
+                        "Processor":"ThinQ AI, a9 intelligent processor",
+                        "Connectivity": "Input: 4 x HDMI, 3 x USB",
+                        "Sound" : " 40 W output",
+                        "SmartTV Features": "Built-in WiFi,Android TV,Voice Search,Google Play Store,Chromecast,Notify Bravia,Netflix Recommended TV, Content Bar,Amazon Prime Video,TV MusicBox",
+                        "Warranty details":" 1 year warranty provided by the manufacturer from date of purchase",
+                        "Easy Returns":"This product is eligible for full refund within 10 days of delivery in case of any product defects, damage or features not matching the description provided"
+                      }    
+                      }    
+    
+ }
+ 

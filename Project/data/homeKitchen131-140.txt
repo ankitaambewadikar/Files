@@ -1,0 +1,307 @@
+{
+    "productId": 131,
+    "productType": "home",
+    "productName": "Coffee Machine ",
+    "category": "kitchen",
+    "rating": {
+        "1": 9,
+        "2": 0,
+        "3": 9,
+        "4": 23,
+        "5": 59
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/131.jpg"
+    ],
+    "price": 12018,
+    "description": "DeLonghi BCO430 Combination Pump Espresso and 10-cup Drip Coffee Machine with Frothing Wand, Silver and Black",
+    "specification": {
+        " Input power (W)": "1500",
+        "Type": "Front loading coffee maker",
+        "Pump pressure (bar)": "15,24 hour programmable timer.",
+        "Rated voltage/Frequency (V~Hz)": "115 V / 60Hz"
+    }
+}
+{
+    "productId": 132,
+    "productType": "home",
+    "productName": "PowerLix Milk Frother Handheld Battery Operated Electric Foam Maker",
+    "category": "kitchen",
+    "rating": {
+        "1": 5,
+        "2": 5,
+        "3": 5,
+        "4": 24,
+        "5": 60
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/132.jpg"
+    ],
+    "price": 1518,
+    "description": "PowerLix Milk Frother Handheld Battery Operated Electric Foam Maker For Coffee, Latte, Cappuccino, Hot Chocolate, Durable Drink Mixer With Stainless Steel Whisk, Stainless Steel Stand Include",
+    "specification": {
+        "GET CREAMY FROTH QUICKLY": "Powerlix brings you its portable handheld milk frother for frothed milk. If you love your morning coffee with lots of froth and foam, then you certainly want to have Powerlix frothing wand at home or your caf√ style cappuccino. It comes with a stand for easy storage and can be kept on the countertop.",
+        "BATTERY OPERATED FOR PERFECT FROTH IN NO TIME": "The mixer is battery powered so you don't have to worry about cords and finding sockets. Heat up the milk, immerse the espresso maker into the cup and turn it on. The milk foamer will start creating creamy froth on the milk instantly. Within 15 - 20 seconds, you have a cup filled with creamy froth and ready to go into your coffee latte.",
+        "QUALITY YOU CAN TRUST": "Our milk whisk frappe maker is made of the best quality stainless steel. It has a powerful motor that gives you 19000 rpm and the dual spring durable long 18/10 food safe material stainless steel spiral whisk that won't rust or break over the time, delivers double the power of other frothers and professional espresso makers available. The power button on top makes it easy to use. The low noise motor barely makes a sound.",
+        "BEAUTIFULLY STYLED WITH VERSATILITY": "The machine is beautifully styled in black color to fit into any modern kitchen. It is lightweight and has ergonomically designed soft touch handle. It is easy to use and easy to clean. It can be used to froth other liquids besides hot milk. Use it to make milkshakes for your kids or cocktails for your friends. It will work well with both hot and cold liquids."
+    }
+}
+{
+    "productId": 133,
+    "productType": "home",
+    "productName": "AmazonBasics 2-Slice Toaster",
+    "category": "kitchen",
+    "rating": {
+        "1": 15,
+        "2": 0,
+        "3": 5,
+        "4": 30,
+        "5": 50
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/133.jpg"
+    ],
+    "price": 1278,
+    "description": "DeLonghi BCO430 Combination Pump Espresso and 10-cup Drip Coffee Machine with Frothing Wand, Silver and Black",
+    "specification": {
+        " 1": "2-slice toaster for toasting one or two slices of bread at a time; 6 shade settings accommodate individual preferences",
+        "Type": "Extra-wide slots for bagels and thicker slices; each slot measures 5-1/4 inches long by 1-1/4 inches wide",
+        "Pump pressure (bar)": "Bagel setting for toasting just the cut side; Frozen setting for defrosting bread; Cancel function ends the session at any time",
+        "Rated": "Extra-lift lever for safely removing smaller pieces; 22-inch power cord (when routed out the back); cord wrap; removable crumb tray (located in the back)"
+    }
+}
+{
+    "productId": 134,
+"productType": "home",
+    "productName": "Brita Extra Large 18 Cup Filtered Water Dispenser",
+    "category": "kitchen",
+    "rating": {
+        "1": 20,
+        "2": 0,
+        "3": 0,
+        "4": 20,
+        "5": 60
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/134.jpg"
+    ],
+    "price": 3448,
+    "description": "",
+    "specification": {
+        "SPACE EFFICIENT": " The UltraMax Water Dispenser holds 18 cups or 1.13 gallons of water, making it great for families and fits neatly on countertops and refrigerator shelves with a modern, slim design1500",
+        "Height": "10.47",
+        " Width": "5.67",
+        "Length/Depth ": "14.37",
+        "REDUCES LEAD": "The BPA-Free Longlast filter is certified by WQA to reduce 99% of lead, chlorine (taste and odor), cadmium, mercury, benzene, asbestos and more found in tap water for cleaner, great tasting water. *Contaminants reduced may not be in all users' water"
+    }
+}
+{
+    "productId": 135,
+"productType": "home",
+    "productName": "Bajaj PCF 25DLX 24 Ltrs Room Air Cooler",
+    "category": "kitchen",
+    "rating": {
+        "1": 25,
+        "2": 0,
+        "3": 0,
+        "4": 24,
+        "5": 51
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/135.jpg"
+    ],
+    "price": 5660,
+    "description": "Bajaj PCF 25DLX 24 Ltrs Room Air Cooler (White) - for Medium Room",
+    "specification": {
+        " Capacity": "80 Litres; Ideal for room size of upto 150 Sq Ft. Suitable for all climates and costal regions",
+        "Product dimensions (LxBxH)": "36.5 cm x 33.0 cm x 70.5 cm",
+        "Others": "Honeycomb cooling media, easily removable pads; 3 Side cooling pad for enhanced performance",
+        "Performance": "Castor wheel for easy mobility 3 way speed control; Quite Performance; Four way air deflection",
+        "Power": "Power: 80 Watts",
+        "Operating voltage": "230 V",
+        " Warranty": "1 year"
+    }
+}
+{
+    "productId": 136,
+"productType": "home",
+    "productName": "Elica Hob 4 Burner Auto Ignition Glass Top",
+    "category": "kitchen",
+    "rating": {
+        "1": 0,
+        "2": 1,
+        "3": 14,
+        "4": 15,
+        "5": 70
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/136.jpg"
+    ],
+    "price": 16990,
+    "description": "Elica Hob 4 Burner Auto Ignition Glass Top - 2 Double Ring Brass, 1 Dual Brass Burner and 1 Mini Triple Ring Brass Gas Stove (Classic MFC 4B 60 MT)",
+    "specification": {
+        "Burners": "2 Medium + 1 Small",
+        "Pan Support": "Enameled",
+        "Finish": "Toughened Black Glass",
+        "Dimension ": "770 x 380 x 60 (mm)",
+        "Burners Warranty": "Lifetime"
+    }
+}
+{
+    "productId": 137,
+"productType": "home",
+    "productName": "Prestige PIC 15.0+ 1900-Watt Induction Cooktop (Black)",
+    "category": "kitchen",
+    "rating": {
+        "1": 12,
+        "2": 8,
+        "3": 15,
+        "4": 10,
+        "5": 55
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/138.jpg"
+    ],
+    "price": 2789,
+    "description": "Concealed and feather touch buttons and Anti magnetic wall",
+    "specification": {
+        "Information": "Concealed and feather touch buttons, Anti magnetic wall ,Automatic voltage regulator, Unique design for protection against insects",
+        "Warranty": "1 year on product",
+        "Power": "1900 watts",
+        "Operating Voltsge": "230 volts",
+        "Includes": "Induction cooktop"
+    }
+}
+{
+    "productId": 138,
+"productType": "home",
+    "productName": "Sujata Powermatic Plus 900 Watts Juicer Mixer Grinder",
+    "category": "kitchen",
+    "rating": {
+        "1": 5,
+        "2": 5,
+        "3": 5,
+        "4": 24,
+        "5": 60
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/138.jpg"
+    ],
+    "price": 4995,
+    "description": "Juicer with unique honeycomb filter mesh for finer juice with higher yield",
+    "specification": {
+        "Type": "Centrifugal Juicer",
+        "Warranty": "1 Year Warranty",
+        "Performance": "Most powerful 900 watts motor with double ball bearings for efficiency, low maintenance and trouble free running for years,90 mins. continuous running- suitable for longer usage",
+        "Blades": "High strength stainless steel blade that cut finer and faster",
+        "Others": "Low maintenance, trouble free running Totally shock-proof and safe"
+    }
+}
+{
+    "productId": 139,
+"productType": "home",
+    "productName": "Bajaj New Shakti GL 15-Litre Vertical Storage Water Heater (white)",
+    "category": "kitchen",
+    "rating": {
+        "1": 4,
+        "2": 1,
+        "3": 10,
+        "4": 5,
+        "5": 80
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/139.jpg"
+    ],
+    "price": 5499,
+    "description": "Special Protection Device attracts harmful salts and keeps the element and tank healthy and safe from corrosion",
+    "specification": {
+        "Cable type": "Fire Retardant cable with 3 pin plug.",
+        "Inner Tank Coating": "Glasslined Coated Inner Tank.",
+        "Safety": "Multiple safety systems for protection against dry heating, over heatuing and over pressure.",
+        "Warranty": "2 year warranty on product and 5 years on inner tank"
+    }
+}
+{
+    "productId": 140,
+"productType": "home",
+    "productName": "Prestige POTG 19 PCR 1380-Watt Oven Toaster Grill (Black)",
+    "category": "kitchen",
+    "rating": {
+        "1": 20,
+        "2": 10,
+        "3": 20,
+        "4": 10,
+        "5": 40
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/140.jpg"
+    ],
+    "price": 4046,
+    "description": "Prestige Oven Toaster Griller with Rotisserie 19L- Potg 19 Pcr",
+    "specification": {
+        "Net Quantity": "1 Unit",
+        "Voltage and Wattage": "230V,1380W",
+        "Capacity": "19 litres, Suitable for 2-3 people",
+        "Warranty": " 1 year"
+    }
+}

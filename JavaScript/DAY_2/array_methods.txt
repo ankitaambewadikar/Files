@@ -1,0 +1,74 @@
+ARRAY METHODS:
+
+1) Converting Arrays to String-The JavaScript method toString() converts an array to a string of array values.
+
+code:
+var fruits = ["apple","banana","cherry"];
+console.log(fruits.toString());
+
+2) Poping -The pop() method removes the last element from an array
+
+code:
+var fruits = ["apple","banana","cherry","mango"];
+console.log(fruits.pop());
+console.log(fruits);
+
+3) Pushing-The push() method adds a new element to an array (at the end)
+code:
+var fruits = ["apple","banana","cherry","mango"];
+fruits.push("orange");
+console.log(fruits);
+
+4) Splicing an Array- The splice() method can be used to add new items to an array
+
+code:
+var fruits = ["apple","banana","cherry","mango"];
+fruits.splice(2,0,"lemon","grapes");
+console.log(fruits);
+5) Merging Arrays- The concat() method creates new array by merging existing arrays.
+
+code:
+var fruits = ["apple","banana","cherry","mango"];
+var numbers = [1,2,3];
+var newArr = fruits.concat(numbers);
+console.log(newArr);
+
+6) Searching in array : (indexOf,lastIndexOf,includes)
+
+arr.indexOf(item, from) looks for item starting from index from, and returns the index where it was found, otherwise -1.
+arr.lastIndexOf(item, from) – same, but looks from right to left.
+arr.includes(item, from) – looks for item starting from index from, returns true if found.
+
+code:
+
+7) Shifting Array elements -Shifting is equivalent to popping, working on the first element instead of the last.
+			The shift() method removes the first array element and "shifts" all other elements to a lower index.
+
+code:
+  var fruits = ["apple","banana","cherry","mango"];
+  fruits.shift();
+  console.log(fruits);
+
+8) Changing elements-Array elements are accessed using their index number
+
+code:
+ var num = [23,78,50,2,1];
+  num[num.length] = 100;
+  console.log(num);
+
+9)Transform an Array- arr.map()-methods transforming or reordering the array.
+
+It calls the function for each element of the array and returns the array of results.
+ here we transform each element into its length
+code:
+  var lengths = ["Bilbo", "Gandalf", "Nazgul"].map(item => item.length)
+console.log(lengths);
+
+10)Reverse- arr.reverse() method reverses the order of elements in arr.
+
+code:
+var num = [23,78,50,2,1];
+num.reverse();
+console.log(num);
+
+11) join

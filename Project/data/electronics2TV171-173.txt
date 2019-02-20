@@ -1,0 +1,102 @@
+{
+    "productId": 171,
+    "productType": "TV",
+    "productName": "Sony 108 cm (43 Inches) Full HD LED Smart Android TV ",
+    "category": "electronics",
+    "rating": {
+        "1": 9,
+        "2": 3,
+        "3": 8,
+        "4": 23,
+        "5": 57
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/171_1.jpg"
+    ],
+    "price": 55990,
+    "description": " Full HD LED Smart Android TV KDL-43W800F (Black) (2018 model).Experience exquisite detail and texture on this Full HD TV. Everything you watch is refined to ensure minimum noise and maximum impact. See the difference in buildings and seascapes.",
+    "specification": {
+        "Resolution": "Full HD (1920x1080p)",
+        "Refresh Rate": "50 hertz",
+        "Display": "Full HD LED,X-Reality Pro, HDR",
+        "Smart TV Features": "Built-in WiFi,Android TV,Voice Search,Google Play,Built-in Chromecast,Phone Notifications",
+        "Connectivity": "4 HDMI ports to connect set top box, Blu Ray players, gaming console | 3 USB ports to connect hard drives and other USB devices",
+        "Sound": "10 Watts Output,Clear Audio+,Bass Reflex Speaker",
+        "Warranty": "1 year standard manufacturer warranty from Sony",
+        "Additional Information": "X-Protection Pro,Slice of Living Design",
+        "Easy returns": "This product is eligible for replacement/refund within 10 days of delivery in case of any product defects, damage or features not matching the description provided"
+    }
+}
+{
+    "productId": 172,
+"productType": "TV",
+    "productName": "Sanyo 107.95 cm (43 Inches) 4K UHD IPS LED Smart Certified Android TV XT-43A081U (Dark Grey)",
+    "category": "electronics",
+    "rating": {
+        "1": 6,
+        "2": 1,
+        "3": 7,
+        "4": 24,
+        "5": 60
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/172.jpg"
+    ],
+    "price": 37990,
+    "description": "Enjoy the best of both worlds with Sanyo meeting Android to create matchless entertainment. Indulge in personalised content, thoughtfully curated to match your discerning taste. Discover voice search, blockbuster movies, live sports, streaming apps and multiplayer games, right on your fingertips. With Sanyo Android series, get ready to switch on a whole new world of entertainment.",
+    "specification": {
+        "Resolution": "Ultra HD 4K (3840x2160)",
+        "Refresh Rate": "60 Hz",
+        "Display": "IPS 4K Display,1.07 Billion colour palette,HDR 10",
+        "Sound": "20W Output,Dolby Digital,Sound Out Feature for Home Theater systems",
+        "Smart TV Features": "Google Certified Android TV,Android Oreo 8.0,Voice Search through Google Assistant,Chromecast Built-in",
+        "Warranty Information": "1 year warranty provided by Sanyo from date of purchase",
+        "Official Google Play App Store": "Download your favourite Apps, Games, Music,Youtube,Google Play Music,Google Play Movies & ,Brushed Metallic Finish ,Slim Bezel,Free Wall Mount & Brand Installation"
+    }
+}
+{
+    "productId": 173,
+"productType": "TV",
+    "productName": "LG 80 cm (32 Inches) HD Ready LED Smart TV 32LJ573D (Mineral Silver) (2017 model)",
+    "category": "electronics",
+    "rating": {
+        "1": 9,
+        "2": 2,
+        "3": 5,
+        "4": 29,
+        "5": 55
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/173.jpg"
+    ],
+    "price": 20000,
+    "description": "The secret behind LG TV’s life-like color and wide viewing angle is the panel. Just as the quality of the beans determines the quality of the coffee, the quality of the panel determines the quality of the TV. The IPS Panel used by LG is the reason why LG LED TVs have clearer, more consistent, and sturdy screens. Life-like Color: IPS offers a color impression that is most identical to that of the original image. The colors are truly closest to nature and most comfortable for the eyes. Wide Viewing Angle: Among LCD panels, it is visibly clear that IPS shows the most consistent color and contrast from all angles. Free from color wash and contrast loss, it is the ideal panel for all purposes.",
+    "specification": {
+        "Resolution": "HD Ready (1366x768p) ",
+        "Refresh Rate": "50 Hz",
+        "Display": "Life-like Colour,Wide Viewing Angle,Colour Master Engine",
+        "Connectivity": "2 HDMI ports to connect set top box, Blu Ray players, gaming console | 1 USB ports to connect hard drives and other USB devices",
+        "Sound": "20 Watts Output",
+        "Smart TV Features": "WebOS,Built-in WiFi",
+        "Warranty Information": "1 year warranty provided by Sanyo from date of purchase",
+        "Easy returns": "This product is eligible for replacement/refund within 10 days of delivery in case of any product defects, damage or features not matching the description provided"
+    }
+}

@@ -1,0 +1,2 @@
+mongodump -d product_db -o C:/db
+mongorestore -d product_db C:/db/product_db

@@ -1,0 +1,336 @@
+{
+    "productId": 141,
+    "productType":"Men Section",
+    "productName": "Adidas Men's Arius 1 M Running Shoes",
+    "category": "footwears",
+    "rating": {
+        "1": 22,
+        "2": 11,
+        "3": 6,
+        "4": 11,
+        "5": 50
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/141.jpg"
+    ],
+    "price": 2004,
+    "description": "Adidas is the world's leading manufacturer of sports and casual wear footwear. Adidas offers performance and sport-inspired lifestyle products in categories such as Football, Running, Training and Fitness, Golf, and Motorsports. Using high technology and design innovation, Adidas continually creates what is aspired and not just what is necessary. All Adidas products are meant to deliver high performance, durability and great comfort.",
+    "specification": {
+        "Size": "UK/IND(4,5,6,7,8)",
+        "Colour": "Multi",
+        "Closure": "Lace-Up",
+        "Material Type": "Mesh",
+        "Lifestyle": "Sports",
+        "Closure Type": "Lace-Up"
+    }
+}
+{
+    "productId": 142,
+    "productType":"WomenSection",
+    "productName": "Sparx Women's Mesh Running Shoes",
+    "category": "footwears",
+    "rating": {
+        "1": 6,
+        "2": 3,
+        "3": 6,
+        "4": 25,
+        "5": 50
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/142.jpg"
+    ],
+    "price": 1100,
+    "description": "Sparx, the most stylish range of shoes, sandals and slippers are exclusively designed to match the latest trends of the new generation. Known for its sturdy and stylish designs, Sparx is an iconic youth brand for those who dare to explore the world. Sparx is a spectacular range of footwear from the house of Relaxo Footwears Ltd., a name trusted among millions of people in India and across the world for delivering unmatched quality. Since its inception, the company has established a benchmark for bringing the finest range of footwears.",
+    "specification": {
+        "Size": "UK/IND(4,5,6,7,8)",
+        "Colour": "DVPK",
+        "Closure": "Lace-Up",
+        "Material Type": "Mesh",
+        "Lifestyle": "Sports",
+        "Closure Type": "Lace-Up"
+    }
+}
+{
+    "productId": 143,
+    "productName": "Converse Unisex Sneakers",
+    "category": "footwears",
+    "rating": {
+        "1": 13,
+        "2": 4,
+        "3": 8,
+        "4": 23,
+        "5": 50
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/143.jpg"
+    ],
+    "price": 1200,
+    "description": "Sparx, the most stylish range of shoes, sandals and slippers are exclusively designed to match the latest trends of the new generation. Known for its sturdy and stylish designs, Sparx is an iconic youth brand for those who dare to explore the world. Sparx is a spectacular range of footwear from the house of Relaxo Footwears Ltd., a name trusted among millions of people in India and across the world for delivering unmatched quality. Since its inception, the company has established a benchmark for bringing the finest range of footwears.",
+    "specification": {
+        "Colour": "Navy",
+        "Size": "UK/IND(4,5,6,7,8,9,10,11)",
+        "Outer": "Material:Canvas",
+        "Lifestyle": "Casual",
+        "Closure Type": "Lace-Up",
+        "Sole Material": "Rubber",
+        "Ankle Heigth": "Low-Top",
+        "Light Weighted": "Sneakers",
+        "Warranty Type": "Manufacturer"
+    }
+}
+
+{
+    "productId": 144,
+     "productType":"Men Section",
+    "productName": "Sofdeal Black Slip On Formal Shoes for Men",
+    "category": "footwears",
+    "rating": {
+        "1": 21,
+        "2": 0,
+        "3": 14,
+        "4": 22,
+        "5": 43
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/144.jpg"
+    ],
+    "price": 349,
+    "description": "Sofdeal is dedicated to designing high quality and durable products with beyond your expected service to the customers from all around the world. Sofdeal shoes are designed to take you through the work week and into the weekend revelries with style. We make sure that all products have passed strict inspection before they leave our warehouse. We believe that our stylish products will meet your expectations. We have various shoes to choose from. Weather you are looking for loafers, fashion sneakers, or everyday formal shoes, Mules Shoes to wear for your next interview.",
+    "specification": {
+        "Colour": "Black/Brown",
+        "Size": "UK/IND(7,8,9,10,11)",
+        "Sole": "PVC",
+        "Closure": "Slip On",
+        "Occasion": " Business Wear, Casual Wear, Sneakers",
+        "Care Instructions": "Get rid of any dry dirt or dust from the surface using a clean cloth"
+    }
+}
+{
+    "productId": 145,
+    "productType":"Men Section",
+    "productName": "FLITE Men's Flip Flops Thong Sandals",
+    "category": "footwears",
+    "rating": {
+        "1": 4,
+        "2": 2,
+        "3": 12,
+        "4": 19,
+        "5": 63
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+    	"C:/Users/aambewad/Desktop/Images/145.jpg"
+    	],
+    "price": 269,
+    "description": "Sparx Presents footwear range that Will Keep Your Feet At Great Ease, While You walk, run or work out in the Gym. These Are Light In Weight, Flexible And Very Comfortable To Wear As Well.",
+    "specification": {
+        "Size": "UK/IND(7,8,9,10,11)",
+        "Closure": "Slip_On",
+        "Material": "Type: Vinyl",
+        "Lifestyle": "Casual",
+        "Closure Type": "Slip On",
+        "Warranty Type": "Manufacturer",
+        "Product warranty against manufacturing defects": "30 days",
+        "Care Instructions": "Allow your pair of shoes to air and de-odorize at regular basis; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth; do not use polish or shiner."
+    }
+}
+{
+    "productId": 146,
+    "productType":"Men Section",
+    "productName": "Sparx Men's Sandals",
+    "category": "footwears",
+    "rating": {
+        "1": 14,
+        "2": 6,
+        "3": 20,
+        "4": 30,
+        "5": 40
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/146.jpg"
+    ],
+    "price": 749,
+    "description": "From the Manufacturer Sparx, the most stylish range of shoes, sandals and slippers are exclusively designed to match the latest trends of the new generation. Known for its sturdy and stylish designs, Sparx is an iconic youth brand for those who dare to explore the world.",
+    "specification": {
+        "Size": "UK/IND(7,8,9,10,11)",
+        "Closure": "Slip_On",
+        "Material": "Synthetic",
+        "Lifestyle": "Sports",
+        "Closure Type": "Slip On",
+        "Warranty Type": "Manufacturer",
+        "Product warranty against manufacturing defects": "30 days",
+        "Care Instructions": "Allow your pair of shoes to air and de-odorize at regular basis; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth; do not use polish or shiner."
+    }
+}
+{
+    "productId": 147,
+    "productType":"Men Section",
+    "productName": "Knoos Men's Comfort Casual Loafers",
+    "category": "footwears",
+    "rating": {
+        "1": 17,
+        "2": 5,
+        "3": 14,
+        "4": 25,
+        "5": 39
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/147.jpg"
+    ],
+    "price": 449,
+    "description": "Make your mark in the fashion world and gain the admiration of the rest as you step out wearing these Casual Shoes from Knoos. Made of premium quality material, these shoes are extremely durable, light weight and comfortable for all age groups. This pair of shoes are perfect for all occasions and is a must-have in your shoe collection. Add this to your footwear collection and get ready to look your best. Pair it up with your casual attires and flaunt your exclusive stylish side. Use shoe bags to prevent from stains and mildew.",
+    "specification": {
+        "Size": "UK/IND(7,8,9,10,11)",
+        "Sole": "rubber",
+        "Type": "Loafers",
+        "Uppar material": "synthetic",
+        "SOLE": "TPT",
+        "Closure": "Slip-on  Handmade Active Shoes",
+        "Product warranty": "Long Durable; Highly Comfortable; 1 Month Warranty Against Manufacturing Defects. Allow your pair of shoes to air and de-odorize at a regular basis. This also helps them retain their natural shape. Use shoe bags to prevent any stains or mildew."
+    }
+}
+{
+    "productId": 148,
+    "productName": "crocs Unisex Duet Clogs and Mules",
+    "category": "footwears",
+    "rating": {
+        "1": 8,
+        "2": 0,
+        "3": 6,
+        "4": 16,
+        "5": 70
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/148.jpg"
+    ],
+    "price": 2636,
+    "description": "Step into the supreme comfort of the Crocs Duet clog. It features dual-density technology to create an uber soft footbed and upper and a tougher outsole for lasting durability against daily wear and tear. Features : Fully molded dual density extra-comfy Croslite material construction offers profound lightweight cushioning. Dual injection design offers softer footbed with a harder/tougher outsole. Ventilation holes offer breathability and accommodate Jibbitz charms. Heel-hugging back strap for a snugger fit. Or swing forward for wear as a slip-on. Easy on and off. Odor-resistant. Lightweight, non-marking sole.",
+    "specification": {
+        "Size": "UK/IND(7,8,9,10,11)",
+        "Colour": "Navy and Smoke",
+        "Closure": "Slip_On",
+        "Fit description": "Relaxed",
+        "Size Suggestion": "We recommend one size smaller",
+        "Material": "Rubber",
+        "Lifestyle": "Casual",
+        "Heel Type": "Flats No Heel",
+        "Care Instructions": "Dust any dry dirt from the surface using a clean cloth, rinse with soap and water to remove excess dirt"
+    }
+}
+{
+    "productId": 149,
+     "productType":"Men Section",
+    "productName": "Red Chief Men's Leather Boat Shoes",
+    "category": "footwears",
+    "rating": {
+        "1": 15,
+        "2": 1,
+        "3": 12,
+        "4": 23,
+        "5": 49
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/149.jpg"
+    ],
+    "price": 2336,
+    "description": "Red Chief presents low ankle genuine leather Shoess in their men's casual Shoes collection with rubber outsole that provides better grip and surface control while the TPR sole provides improved cushioning and slip resistance. These men's casual Shoess have an anti heel thrust padding for shock absorbing and moc toe design which makes them the best pick in your men's casual Shoess collection.",
+    "specification": {
+        "Size": "UK/IND(7,8,9,10,11)",
+        "Colour": "Rust",
+        "Closure": "Lace-Up",
+        "Material Type": "Leather",
+        "Lifestyle": "Casual",
+        "Closure Type": "Lace-Up",
+        "Warranty Type": "Manufacturer",
+        "Product Warranty against manufacturing defects": "90 days",
+        "Care Instructions": "Clean your shoes with leather cleaner or leather shampoo, and use a good quality brush to remove loose surface dirt; if your shoes are wet after cleaning, let them air-dry before your proceed with the next step; dry shoes in room temperature only and never expose them to the sun, heat from the sun will cause the leather to shrink, wrinkle, harden, dry, and crack"
+    }
+}
+{
+    "productId": 150,
+"productType":"Men Section",
+    "productName": "Sparx Men's Running Shoes",
+    "category": "footwears",
+    "rating": {
+        "1": 5,
+        "2": 3,
+        "3": 8,
+        "4": 33,
+        "5": 51
+    },
+    "review": {
+        "1": "Excellent",
+        "2": "Good",
+        "3": "Moderate",
+        "4": "Bad"
+    },
+    "image": [
+        "C:/Users/aambewad/Desktop/Images/150.jpg"
+    ],
+    "price": 999,
+    "description": "Known for its sturdy and stylish designs, Sparx is an iconic youth brand for those who dare to explore the world.",
+    "specification": {
+        "Size": "UK/IND(7,8,9,10,11)",
+        "Colour": "Navy Blue and White,Black and Orange,Navy Blue and White,Blue",
+        "Closure": "Lace-Up",
+        "Material Type": "Mesh",
+        "Lifestyle": "Casual",
+        "Closure Type": "Lace-Up",
+        "Warranty Type": "Manufacturer",
+        "Product warranty against manufacturing defects": "30 days",
+        "Care Instructions": "Allow your pair of shoes to air and de-odorize at a regular basis, this also helps them retain their natural shape; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth, do not use polish or shiner"
+    }
+}
