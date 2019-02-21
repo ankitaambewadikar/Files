@@ -1,0 +1,14 @@
+package com.cg.messaging.messagingdemo.resource;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class SenderResource {
+	
+	@RequestMapping("/hello")
+	public String sendMessage() {
+		
+	}
+
+}

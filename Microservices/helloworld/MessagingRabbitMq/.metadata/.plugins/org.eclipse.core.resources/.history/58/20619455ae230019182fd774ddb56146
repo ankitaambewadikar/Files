@@ -1,0 +1,5 @@
+package com.cg.messaging.messagingdemo.resource;
+
+public class SenderResource {
+
+}

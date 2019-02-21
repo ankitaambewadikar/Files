@@ -1,0 +1,5 @@
+package com.cg.studentservice.entity;
+
+public class Student {
+
+}

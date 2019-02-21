@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item value="480" key="width"/>
+		<item value="480" key="x"/>
+		<item value="76" key="y"/>
+		<item value="531" key="height"/>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\ASSIGNMENTS\APIGateway\hello-service"/>
+			<item value="C:\ASSIGNMENTS\APIGateway\api-gateway"/>
+			<item value="C:\ASSIGNMENTS\APIGateway\student-service"/>
+			<item value="C:\ASSIGNMENTS\APIGateway\website"/>
+			<item value="C:\ASSIGNMENTS\APIGateway\hello-zuul"/>
+			<item value="C:\ASSIGNMENTS\APIGateway\zuuldemo"/>
+			<item value="C:\ASSIGNMENTS\APIGateway\eureka-server"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

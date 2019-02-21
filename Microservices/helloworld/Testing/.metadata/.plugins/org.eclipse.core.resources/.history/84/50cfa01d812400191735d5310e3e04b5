@@ -1,0 +1,14 @@
+package com.cg.reservationservice;
+
+import org.junit.Test;
+
+import com.cg.reservationservice.pojo.Reservation;
+
+public class ResevationPOJOTest {
+
+	@Test
+	public void testShouldConstruct() {
+		Reservation reservation = new Reservation("1", "Mario");
+	}
+
+}

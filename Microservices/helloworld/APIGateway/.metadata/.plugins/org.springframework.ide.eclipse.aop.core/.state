@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="hello-service"/>
+<aop-project name="student-service"/>
+<aop-project name="api-gateway"/>
+<aop-project name="website"/>
+</aop-reference-model>

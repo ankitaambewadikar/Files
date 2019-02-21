@@ -1,0 +1,8 @@
+package com.cg.reservationservice.pojo;
+
+public class Reservation {
+
+	private String id;
+	private String reservationName;
+		
+}

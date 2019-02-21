@@ -1,0 +1,5 @@
+package com.cg.apigateway.entity;
+
+public class ErrorFilter {
+
+}
