@@ -1,0 +1,4 @@
+1. Create a program that adds 2 numbers.
+2. Create a program that finds the highest number out of 3 numbers.
+2. Create a program to find the factorial of a number.
+3. Create a program to find if the number is prime or not.

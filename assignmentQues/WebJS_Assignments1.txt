@@ -1,0 +1,19 @@
+1. List all the DOM objects names below.
+
+2. List all the BOM objects names below.
+
+3.1. Find out most commonly used functions(minimum 4) of "document" object and write their purpose with a code snippet which proves the purpose.
+
+3.2. Find out most commonly used functions(minimum 4) of "window" object and write their purpose with a code snippet which proves the purpose.
+
+4. Create an HTML page with a button on it, when the button is clicked, it should display an alert box with text "Hello World"
+
+5. Create an HTML page with a button on it, when the button is clicked, it should display the text "Hello World" on the page.
+NOTE: The buttton might have gone after text appears.
+
+6. Create an HTML page with a button on it, when the button is clicked, it should display the text "Hello World" on the page, just below the button.
+NOTE: This time the button should not go off, it is still visible and present on the page.
+
+7. Create an HTML Page with a textbox and a button, write anything in the text box and click on the button, Onclick of the button it should display the text on the alert box that was entered in the textbox.
+
+8. Create an HTML Page with a textbox and a button, write anything in the text box and click on the button, Onclick of the button it should display the text just below the textbox on the webpage that was entered in the textbox.
